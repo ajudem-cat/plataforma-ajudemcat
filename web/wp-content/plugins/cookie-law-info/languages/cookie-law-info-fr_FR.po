@@ -1,0 +1,1294 @@
+# Translation of Plugins - GDPR Cookie Consent -  French (France)
+# This file is distributed under the same license as the Plugins - GDPR Cookie Consent
+msgid ""
+msgstr ""
+"Project-Id-Version: Plugins - GDPR Cookie Consent\n"
+"POT-Creation-Date: 2019-10-07 16:35+0530\n"
+"PO-Revision-Date: 2019-10-07 16:36+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/class-cookie-law-info-admin.php:144
+#: admin/class-cookie-law-info-admin.php:145
+#: admin/partials/cookie-law-info-admin_settings.php:31
+msgid "Cookie Law Settings"
+msgstr "Réglages Cookie Law"
+
+#: admin/class-cookie-law-info-admin.php:152
+#: admin/class-cookie-law-info-admin.php:153
+msgid "Non-necessary Cookie"
+msgstr "Cookie non nécessaire"
+
+#: admin/class-cookie-law-info-admin.php:160
+#: admin/class-cookie-law-info-admin.php:161
+msgid "Necessary Cookie"
+msgstr "Cookie nécessaire"
+
+#: admin/class-cookie-law-info-admin.php:168
+#: admin/class-cookie-law-info-admin.php:169
+#: admin/partials/cookie-law-info-privacy_overview.php:53
+msgid "Privacy Overview"
+msgstr "Aperçu de la confidentialité"
+
+#: admin/class-cookie-law-info-admin.php:207
+msgid "Settings"
+msgstr "Réglages"
+
+#: admin/class-cookie-law-info-admin.php:208
+msgid "Support"
+msgstr "Support"
+
+#: admin/class-cookie-law-info-admin.php:209
+msgid "Premium Upgrade"
+msgstr "Mise à niveau Premium"
+
+#: admin/class-cookie-law-info-admin.php:253
+#: admin/class-cookie-law-info-admin.php:300
+#: admin/class-cookie-law-info-admin.php:345
+#: admin/partials/cookie-law-info-privacy_overview.php:29
+msgid "Settings Updated."
+msgstr "Réglages mis à jour."
+
+#: admin/class-cookie-law-info-admin.php:322
+msgid "You do not have sufficient permission to perform this operation"
+msgstr "Vous n’avez pas les droits suffisants pour exécuter cette opération"
+
+#: admin/class-cookie-law-info-admin.php:360
+msgid "ERROR MIGRATING SETTINGS (ERROR: 2)"
+msgstr "ERREUR DE MIGRATION DES RÉGLAGES (ERREUR : 2)"
+
+#: admin/class-cookie-law-info-admin.php:378
+msgid "Cookie ID"
+msgstr "ID de cookie"
+
+#: admin/class-cookie-law-info-admin.php:379
+msgid "Cookie Type"
+msgstr "Type de cookie"
+
+#: admin/class-cookie-law-info-admin.php:380
+msgid "Cookie Duration"
+msgstr "Durée cookies"
+
+#: admin/class-cookie-law-info-admin.php:381
+msgid "Cookie Sensitivity"
+msgstr "Sensibilité aux cookies"
+
+#: admin/class-cookie-law-info-admin.php:631
+msgid "Close Header"
+msgstr "Fermer l'en-tête"
+
+#: admin/class-cookie-law-info-admin.php:635
+msgid "Open URL"
+msgstr "Ouvrir le lien"
+
+#: admin/class-cookie-law-info-admin.php:648
+msgid "Extra Large"
+msgstr "Très Grand"
+
+#: admin/class-cookie-law-info-admin.php:652
+msgid "Large"
+msgstr "Grand"
+
+#: admin/class-cookie-law-info-admin.php:656
+msgid "Medium"
+msgstr "Moyen"
+
+#: admin/class-cookie-law-info-admin.php:660
+msgid "Small"
+msgstr "Petit"
+
+#: admin/class-cookie-law-info-admin.php:674
+msgid "Default theme font"
+msgstr "Police de thème par défaut"
+
+#: admin/class-cookie-law-info-admin.php:678
+msgid "Sans Serif"
+msgstr "Sans Serif"
+
+#: admin/class-cookie-law-info-admin.php:682
+msgid "Serif"
+msgstr "Serif"
+
+#: admin/class-cookie-law-info-admin.php:686
+msgid "Arial"
+msgstr "Arial"
+
+#: admin/class-cookie-law-info-admin.php:690
+msgid "Arial Black"
+msgstr "Arial Black"
+
+#: admin/class-cookie-law-info-admin.php:694
+msgid "Georgia, serif"
+msgstr "Georgia, serif"
+
+#: admin/class-cookie-law-info-admin.php:698
+msgid "Helvetica"
+msgstr "Helvetica"
+
+#: admin/class-cookie-law-info-admin.php:702
+msgid "Lucida"
+msgstr "Lucida"
+
+#: admin/class-cookie-law-info-admin.php:706
+msgid "Tahoma"
+msgstr "Tahoma"
+
+#: admin/class-cookie-law-info-admin.php:710
+msgid "Times New Roman"
+msgstr "Times New Roman"
+
+#: admin/class-cookie-law-info-admin.php:714
+msgid "Trebuchet"
+msgstr "Trebuchet"
+
+#: admin/class-cookie-law-info-admin.php:718
+msgid "Verdana"
+msgstr "Verdana"
+
+#: admin/modules/cli-policy-generator/classes/class-policy-generator-ajax.php:21
+msgid "Unable to handle your request."
+msgstr "Impossible de traiter votre demande."
+
+#: admin/modules/cli-policy-generator/classes/class-policy-generator-ajax.php:91
+#: admin/modules/cli-policy-generator/classes/class-policy-generator-ajax.php:127
+#: admin/modules/cli-policy-generator/cli-policy-generator.php:131
+msgid "Error"
+msgstr "Erreur"
+
+#: admin/modules/cli-policy-generator/classes/class-preview-page.php:27
+msgid "Cookie Policy"
+msgstr "Politique de cookie"
+
+#: admin/modules/cli-policy-generator/classes/class-preview-page.php:83
+msgid "Auto reload preview"
+msgstr "Aperçu de recharge automatique"
+
+#: admin/modules/cli-policy-generator/cli-policy-generator.php:105
+#: admin/modules/cli-policy-generator/cli-policy-generator.php:106
+#: admin/modules/cli-policy-generator/views/policy-generator.php:21
+msgid "Policy generator"
+msgstr "Générateur de politique"
+
+#: admin/modules/cli-policy-generator/cli-policy-generator.php:132
+msgid "Success"
+msgstr "Succès"
+
+#: admin/modules/cli-policy-generator/views/policy-generator.php:25
+msgid "Sample heading"
+msgstr "Titre de l'échantillon"
+
+#: admin/modules/cli-policy-generator/views/policy-generator.php:26
+msgid "Sample content"
+msgstr "Contenu de l'échantillon"
+
+#: admin/modules/cli-policy-generator/views/policy-generator.php:27
+msgid "Delete"
+msgstr "Effacer"
+
+#: admin/modules/cli-policy-generator/views/policy-generator.php:49
+msgid "Add new"
+msgstr "Ajouter nouveau"
+
+#: admin/modules/cli-policy-generator/views/policy-generator.php:53
+msgid "Heading"
+msgstr "Titre"
+
+#: admin/modules/cli-policy-generator/views/policy-generator.php:57
+#: admin/views/admin_necessary_cookie.php:30
+#: admin/views/admin_non_necessary_cookie.php:53
+#: public/modules/shortcode/shortcode.php:214
+msgid "Description"
+msgstr "La description"
+
+#: admin/modules/cli-policy-generator/views/policy-generator.php:65
+msgid ""
+"Enabling this option will help us spread the word by placing a credit to "
+"WebToffee at the very end of the Cookie Policy page."
+msgstr ""
+"Activer cette option nous aidera à faire passer le mot en plaçant un crédit "
+"auprès de WebToffee à la fin de la page Politique en matière de cookies."
+
+#: admin/modules/cli-policy-generator/views/policy-generator.php:82
+msgid "Update existing Cookie Policy page"
+msgstr "Mettre à jour la page de stratégie de cookie existante"
+
+#: admin/modules/cli-policy-generator/views/policy-generator.php:88
+msgid "Create Cookie Policy page"
+msgstr "Page de création d'une politique de cookie"
+
+#: admin/modules/cli-policy-generator/views/policy-generator.php:92
+msgid "Live preview"
+msgstr "Aperçu en direct"
+
+#: admin/partials/cookie-law-info-admin_settings.php:25
+#: admin/views/admin_necessary_cookie.php:17
+#: admin/views/admin_non_necessary_cookie.php:23
+msgid "Settings updated."
+msgstr "Réglages mis à jour."
+
+#: admin/partials/cookie-law-info-admin_settings.php:26
+#: admin/views/admin_necessary_cookie.php:18
+#: admin/views/admin_non_necessary_cookie.php:24
+msgid "Unable to update Settings."
+msgstr "Impossible de mettre à jour les réglages."
+
+#: admin/partials/cookie-law-info-admin_settings.php:27
+msgid "Settings reset to defaults."
+msgstr "Réglages réinitialisés aux valeurs par défaut."
+
+#: admin/partials/cookie-law-info-admin_settings.php:28
+msgid "Unable to reset settings."
+msgstr "Impossible de réinitialiser les réglages."
+
+#: admin/partials/cookie-law-info-admin_settings.php:39
+msgid "Your Cookie Law Info bar is switched on"
+msgstr "Votre barre d’information sur la loi relative aux Cookies est activée"
+
+#: admin/partials/cookie-law-info-admin_settings.php:47
+msgid "Your Cookie Law Info bar is switched off"
+msgstr ""
+"Votre barre d’information sur la loi relative aux Cookies est désactivée"
+
+#: admin/partials/cookie-law-info-admin_settings.php:57
+msgid "General"
+msgstr "Général"
+
+#: admin/partials/cookie-law-info-admin_settings.php:58
+msgid "Customise Cookie Bar"
+msgstr "Personnaliser la barre de cookie"
+
+#: admin/partials/cookie-law-info-admin_settings.php:59
+msgid "Customise Buttons"
+msgstr "Personnalisez vos boutons"
+
+#: admin/partials/cookie-law-info-admin_settings.php:60
+#: admin/views/admin-settings-advanced.php:8
+msgid "Advanced"
+msgstr "Avancé"
+
+#: admin/partials/cookie-law-info-admin_settings.php:61
+msgid "Help Guide"
+msgstr "Guide d'aide"
+
+#: admin/partials/cookie-law-info-privacy_overview.php:60
+msgid "Privacy Overview Title"
+msgstr "Titre de la confidentialité"
+
+#: admin/partials/cookie-law-info-privacy_overview.php:66
+#: admin/partials/cookie-law-info-privacy_overview.php:81
+msgid "This will be shown in the settings visible for user on consent screen."
+msgstr ""
+"Cela apparaîtra dans les paramètres visibles pour l’écran de consentement de "
+"l’utilisateur."
+
+#: admin/partials/cookie-law-info-privacy_overview.php:89
+msgid "Save Settings"
+msgstr "Enregistrer les paramètres"
+
+#: admin/views/admin-settings-advanced.php:9
+msgid ""
+"Sometimes themes apply settings that clash with plugins. If that happens, "
+"try adjusting these settings."
+msgstr ""
+"Parfois les thèmes appliquent des réglages qui entrent en conflit avec "
+"certaines extensions. Essayez d’ajuster ces réglages."
+
+#: admin/views/admin-settings-advanced.php:13
+msgid "Reset all values"
+msgstr "Remettre à zéro toutes les valeurs"
+
+#: admin/views/admin-settings-advanced.php:15
+msgid "Delete settings and reset"
+msgstr "Supprimer les réglages et réinitialiser"
+
+#: admin/views/admin-settings-advanced.php:15
+msgid "Are you sure you want to delete all your settings?"
+msgstr "Êtes-vous sûr de vouloir supprimer tous vos paramètres?"
+
+#: admin/views/admin-settings-advanced.php:16
+msgid "Warning: this will actually delete your current settings."
+msgstr "Attention : cela va vraiment supprimer vos réglages actuels."
+
+#: admin/views/admin-settings-buttons.php:10
+msgid "Accept Button"
+msgstr "Bouton Accepter"
+
+#: admin/views/admin-settings-buttons.php:11
+#: admin/views/admin-settings-buttons.php:92
+msgid "Reject Button"
+msgstr "Bouton Rejeter"
+
+#: admin/views/admin-settings-buttons.php:12
+#: admin/views/admin-settings-buttons.php:162
+msgid "Settings Button"
+msgstr "Bouton Paramètres"
+
+#: admin/views/admin-settings-buttons.php:13
+#: admin/views/admin-settings-buttons.php:205
+msgid "Read More Link"
+msgstr "Lien En savoir plus"
+
+#: admin/views/admin-settings-buttons.php:19
+msgid "Main Button"
+msgstr "Bouton principal"
+
+#: admin/views/admin-settings-buttons.php:20
+msgid ""
+"This button/link can be customised to either simply close the cookie bar, or "
+"follow a link. You can also customise the colours and styles, and show it as "
+"a link or a button."
+msgstr ""
+"Ce bouton / lien peut être personnalisé pour fermer simplement la barre des "
+"cookies ou pour suivre un lien. Vous pouvez également personnaliser les "
+"couleurs et les styles et les afficher sous forme de lien ou de bouton."
+
+#: admin/views/admin-settings-buttons.php:23
+#: admin/views/admin-settings-buttons.php:95
+#: admin/views/admin-settings-buttons.php:165
+#: admin/views/admin-settings-buttons.php:219
+msgid "Text"
+msgstr "Texte"
+
+#: admin/views/admin-settings-buttons.php:29
+#: admin/views/admin-settings-buttons.php:101
+#: admin/views/admin-settings-buttons.php:171
+#: admin/views/admin-settings-buttons.php:225
+msgid "Text colour"
+msgstr "Couleur du texte"
+
+#: admin/views/admin-settings-buttons.php:37
+#: admin/views/admin-settings-buttons.php:109
+#: admin/views/admin-settings-buttons.php:179
+#: admin/views/admin-settings-buttons.php:233
+msgid "Show as"
+msgstr "Afficher comme"
+
+#: admin/views/admin-settings-buttons.php:39
+#: admin/views/admin-settings-buttons.php:111
+#: admin/views/admin-settings-buttons.php:181
+#: admin/views/admin-settings-buttons.php:235
+msgid "Button"
+msgstr "Bouton"
+
+#: admin/views/admin-settings-buttons.php:41
+#: admin/views/admin-settings-buttons.php:113
+#: admin/views/admin-settings-buttons.php:183
+#: admin/views/admin-settings-buttons.php:237
+msgid "Link"
+msgstr "Lien"
+
+#: admin/views/admin-settings-buttons.php:45
+#: admin/views/admin-settings-buttons.php:117
+#: admin/views/admin-settings-buttons.php:187
+#: admin/views/admin-settings-buttons.php:241
+msgid "Background colour"
+msgstr "Couleur d’arrière-plan"
+
+#: admin/views/admin-settings-buttons.php:54
+#: admin/views/admin-settings-buttons.php:125
+msgid "Action"
+msgstr "Action"
+
+#: admin/views/admin-settings-buttons.php:62
+#: admin/views/admin-settings-buttons.php:137
+#: admin/views/admin-settings-buttons.php:252
+#: admin/views/admin-settings-buttons.php:259
+msgid "URL"
+msgstr "URL"
+
+#: admin/views/admin-settings-buttons.php:65
+#: admin/views/admin-settings-buttons.php:140
+msgid "Button will only link to URL if Action = Open URL"
+msgstr "Le bouton ne liera à l'URL que si Action = Open URL"
+
+#: admin/views/admin-settings-buttons.php:70
+#: admin/views/admin-settings-buttons.php:145
+msgid "Open URL in new window?"
+msgstr "Ouvrir l’URL dans une nouvelle fenêtre ?"
+
+#: admin/views/admin-settings-buttons.php:72
+#: admin/views/admin-settings-buttons.php:147
+#: admin/views/admin-settings-buttons.php:303
+#: admin/views/admin-settings-buttons.php:310
+#: admin/views/admin-settings-general.php:57
+#: admin/views/admin-settings-general.php:89
+#: admin/views/admin-settings-general.php:136
+#: admin/views/admin-settings-general.php:152
+#: admin/views/admin-settings-general.php:169
+#: admin/views/admin-settings-general.php:238
+#: admin/views/admin-settings-general.php:246
+#: admin/views/admin-settings-general.php:253
+#: admin/views/admin-settings-messagebar.php:51
+#: admin/views/admin_non_necessary_cookie.php:37
+msgid "Yes"
+msgstr "Oui"
+
+#: admin/views/admin-settings-buttons.php:74
+#: admin/views/admin-settings-buttons.php:148
+#: admin/views/admin-settings-buttons.php:304
+#: admin/views/admin-settings-buttons.php:311
+#: admin/views/admin-settings-general.php:58
+#: admin/views/admin-settings-general.php:90
+#: admin/views/admin-settings-general.php:137
+#: admin/views/admin-settings-general.php:153
+#: admin/views/admin-settings-general.php:170
+#: admin/views/admin-settings-general.php:239
+#: admin/views/admin-settings-general.php:247
+#: admin/views/admin-settings-general.php:254
+#: admin/views/admin-settings-messagebar.php:52
+#: admin/views/admin_non_necessary_cookie.php:38
+msgid "No"
+msgstr "Non"
+
+#: admin/views/admin-settings-buttons.php:81
+#: admin/views/admin-settings-buttons.php:152
+#: admin/views/admin-settings-buttons.php:195
+#: admin/views/admin-settings-buttons.php:315
+msgid "Size"
+msgstr "Taille"
+
+#: admin/views/admin-settings-buttons.php:206
+msgid ""
+"This button/link can be used to provide a link out to your Privacy & Cookie "
+"Policy. You can customise it any way you like."
+msgstr ""
+"Ce bouton/lien peut être utilisé pour fournir un lien vers votre page de "
+"politique de confidentialité sur les cookies.  Vous pouvez personnaliser "
+"cela comme vous le souhaitez."
+
+#: admin/views/admin-settings-buttons.php:211
+msgid "Click"
+msgstr "Cliquez sur"
+
+#: admin/views/admin-settings-buttons.php:211
+msgid "here"
+msgstr "ici"
+
+#: admin/views/admin-settings-buttons.php:211
+msgid " to generate content for Cookie Policy page."
+msgstr " générer du contenu pour la page de stratégie de cookie."
+
+#: admin/views/admin-settings-buttons.php:250
+msgid "URL or Page?"
+msgstr "URL ou page ?"
+
+#: admin/views/admin-settings-buttons.php:254
+#: admin/views/admin-settings-buttons.php:265
+msgid "Page"
+msgstr "Page"
+
+#: admin/views/admin-settings-buttons.php:268
+msgid "Select One"
+msgstr "Choisissez un"
+
+#: admin/views/admin-settings-buttons.php:293
+msgid "The currently selected page does not exist. Please select a new page."
+msgstr ""
+"La page actuellement sélectionnée n'existe pas. Veuillez sélectionner une "
+"nouvelle page."
+
+#: admin/views/admin-settings-buttons.php:301
+msgid "Minimize Cookie Bar in this page/URL?"
+msgstr "Réduire la barre des cookies dans cette page / URL?"
+
+#: admin/views/admin-settings-buttons.php:308
+msgid "Open in new window?"
+msgstr "Ouvrir dans une nouvelle fenêtre ?"
+
+#: admin/views/admin-settings-general.php:9
+#: admin/views/admin-settings-general.php:15
+#: admin/views/admin-settings-messagebar.php:8
+msgid "Cookie Bar"
+msgstr "Barre de cookie"
+
+#: admin/views/admin-settings-general.php:10
+#: admin/views/admin-settings-general.php:164
+msgid "Show Again Tab"
+msgstr "Afficher de nouveau la barre"
+
+#: admin/views/admin-settings-general.php:11
+#: admin/views/admin-settings-general.php:230
+msgid "Other"
+msgstr "Autre"
+
+#: admin/views/admin-settings-general.php:19
+msgid "Cookie Bar is currently:"
+msgstr "Le bandeau Cookies est actuellement :"
+
+#: admin/views/admin-settings-general.php:21
+msgid "On"
+msgstr "Oui"
+
+#: admin/views/admin-settings-general.php:22
+msgid "Off"
+msgstr "Non"
+
+#: admin/views/admin-settings-general.php:26
+msgid "Cookie bar as"
+msgstr "Barre de cookie comme"
+
+#: admin/views/admin-settings-general.php:33
+msgid "Banner"
+msgstr "Bannière"
+
+#: admin/views/admin-settings-general.php:36
+msgid "Popup"
+msgstr "Fenêtre surgissante"
+
+#: admin/views/admin-settings-general.php:39
+msgid "Widget"
+msgstr "Widget"
+
+#: admin/views/admin-settings-general.php:45
+msgid "Position"
+msgstr "Position"
+
+#: admin/views/admin-settings-general.php:48
+#: admin/views/admin-settings-general.php:181
+#: admin/views/admin-settings-general.php:184
+msgid "Left"
+msgstr "Gauche"
+
+#: admin/views/admin-settings-general.php:49
+#: admin/views/admin-settings-general.php:180
+#: admin/views/admin-settings-general.php:183
+msgid "Right"
+msgstr "Droite"
+
+#: admin/views/admin-settings-general.php:55
+msgid "Add overlay?"
+msgstr "Ajouter une superposition?"
+
+#: admin/views/admin-settings-general.php:59
+msgid ""
+"When the popup is active, an overlay will block the user from browsing the "
+"site."
+msgstr ""
+"Lorsque la fenêtre contextuelle est active, une superposition empêche "
+"l'utilisateur de naviguer sur le site."
+
+#: admin/views/admin-settings-general.php:60
+msgid "`Accept on scroll` will not work along with this option."
+msgstr "`Accepter au défilement` ne fonctionnera pas avec cette option."
+
+#: admin/views/admin-settings-general.php:65
+msgid "Cookie Bar will be shown in:"
+msgstr "La barre de Cookies sera affichée dans :"
+
+#: admin/views/admin-settings-general.php:71
+#: admin/views/admin-settings-general.php:74
+msgid "Header"
+msgstr "En-tête"
+
+#: admin/views/admin-settings-general.php:72
+#: admin/views/admin-settings-general.php:75
+msgid "Footer"
+msgstr "Pied de page"
+
+#: admin/views/admin-settings-general.php:87
+msgid "Fix Cookie Bar to Header?"
+msgstr "Lier la barre de Cookies à l’en-tête ?"
+
+#: admin/views/admin-settings-general.php:91
+msgid ""
+"If you select \"Header\" then you can optionally stick the cookie bar to the "
+"header. Will not have any effect if you select \"Footer\"."
+msgstr ""
+"Si vous sélectionnez \"En-tête\", vous pouvez éventuellement coller la barre "
+"de cookies sur l'en-tête. N'aura aucun effet si vous sélectionnez \"Pied de "
+"page\"."
+
+#: admin/views/admin-settings-general.php:100
+msgid "On load"
+msgstr "Au chargement"
+
+#: admin/views/admin-settings-general.php:105
+#: admin/views/admin-settings-general.php:108
+#: admin/views/admin-settings-general.php:121
+#: admin/views/admin-settings-general.php:124
+msgid "Animate"
+msgstr "Animer"
+
+#: admin/views/admin-settings-general.php:106
+#: admin/views/admin-settings-general.php:109
+msgid "Sticky"
+msgstr "Èpinglé"
+
+#: admin/views/admin-settings-general.php:116
+msgid "On hide"
+msgstr "Au masquage"
+
+#: admin/views/admin-settings-general.php:122
+#: admin/views/admin-settings-general.php:125
+msgid "Disappear"
+msgstr "Faire disparaître"
+
+#: admin/views/admin-settings-general.php:134
+msgid "Auto-hide(Accept) cookie bar after delay?"
+msgstr ""
+"Masquer automatiquement (accepter) la barre des cookies après un délai?"
+
+#: admin/views/admin-settings-general.php:141
+msgid "Milliseconds until hidden"
+msgstr "Millièmes de secondes avant le masquage"
+
+#: admin/views/admin-settings-general.php:144
+msgid "Specify milliseconds (not seconds)"
+msgstr "Spécifiez les millisecondes (pas les secondes)"
+
+#: admin/views/admin-settings-general.php:144
+msgid "seconds"
+msgstr "secondes"
+
+#: admin/views/admin-settings-general.php:150
+msgid "Auto-hide cookie bar if the user scrolls ( Accept on Scroll )?"
+msgstr ""
+"Masquer automatiquement la barre de cookie si l’utilisateur fait défiler "
+"(Accepter au défilement) ?"
+
+#: admin/views/admin-settings-general.php:154
+msgid ""
+"As per latest GDPR policies it is required to take an explicit consent for "
+"the cookies. Use this option with discretion especially if you serve EU"
+msgstr ""
+"Conformément aux dernières politiques GDPR, un consentement explicite aux "
+"cookies est requis. Utilisez cette option avec discrétion, en particulier si "
+"vous servez au service de l’UE"
+
+#: admin/views/admin-settings-general.php:155
+msgid "This option will not work along with `Popup overlay`."
+msgstr "Cette option ne fonctionnera pas avec `Popup Overlay`."
+
+#: admin/views/admin-settings-general.php:167
+msgid "Use Show Again Tab?"
+msgstr "Utiliser l’onglet Afficher à nouveau ?"
+
+#: admin/views/admin-settings-general.php:175
+#: admin/views/admin-settings-general.php:192
+msgid "Tab Position"
+msgstr "Position de l’onglet"
+
+#: admin/views/admin-settings-general.php:199
+msgid "Bottom Right"
+msgstr "En bas à droite"
+
+#: admin/views/admin-settings-general.php:202
+msgid "Bottom Left"
+msgstr "En bas à gauche"
+
+#: admin/views/admin-settings-general.php:205
+msgid "Top Right"
+msgstr "En haut à droite"
+
+#: admin/views/admin-settings-general.php:208
+msgid "Top Left"
+msgstr "En haut à gauche"
+
+#: admin/views/admin-settings-general.php:215
+msgid "From Left Margin"
+msgstr "Depuis la marge externe de gauche"
+
+#: admin/views/admin-settings-general.php:218
+msgid "Specify"
+msgstr "Spécifier"
+
+#: admin/views/admin-settings-general.php:222
+msgid "Show More Text"
+msgstr "Texte du message permettant d’en savoir plus"
+
+#: admin/views/admin-settings-general.php:233
+msgid "Reload after \"scroll accept\" event?"
+msgstr "Recharger après l’événement d’acceptation lié au défilement ?"
+
+#: admin/views/admin-settings-general.php:244
+msgid "Reload after Accept button click"
+msgstr "Recharger la page au clic sur le bouton de consentement"
+
+#: admin/views/admin-settings-general.php:251
+msgid "Reload after Reject button click"
+msgstr "Recharger la page au clic sur le bouton de refus"
+
+#: admin/views/admin-settings-help.php:9
+msgid "Shortcodes"
+msgstr "Codes courts"
+
+#: admin/views/admin-settings-help.php:10
+#: admin/views/admin-settings-help.php:103
+msgid "Help Links"
+msgstr "Liens d’aide"
+
+#: admin/views/admin-settings-help.php:16
+msgid "Cookie bar shortcodes"
+msgstr "Codes courts du bandeau cookies"
+
+#: admin/views/admin-settings-help.php:17
+msgid ""
+"You can enter the shortcodes in the \"message\" field of the Cookie Law Info "
+"bar. They add nicely formatted buttons and/or links into the cookie bar, "
+"without you having to add any HTML."
+msgstr ""
+"Vous pouvez entrer les codes abrégés dans le champ \"message\" de la barre "
+"d'informations sur les lois relatives aux cookies. Ils ajoutent des boutons "
+"et / ou des liens bien formatés dans la barre des cookies, sans que vous "
+"ayez à ajouter de code HTML."
+
+#: admin/views/admin-settings-help.php:22
+msgid "This is the \"main button\" you customise above."
+msgstr "C'est le \"bouton principal\" que vous personnalisez ci-dessus."
+
+#: admin/views/admin-settings-help.php:26
+msgid "This is the cookie reject button shortcode."
+msgstr "C'est le shortcode du bouton de rejet des cookies."
+
+#: admin/views/admin-settings-help.php:30
+msgid "This is the cookie settings button rendering shortcode."
+msgstr "C’est le bouton de configuration des cookies qui rend le shortcode."
+
+#: admin/views/admin-settings-help.php:33
+msgid "This is the \"read more\" link you customise above."
+msgstr "C’est le lien \"en savoir plus\" que vous personnalisez ci-dessus."
+
+#: admin/views/admin-settings-help.php:36
+msgid "Setup margin for above buttons"
+msgstr "Marge de configuration pour les boutons ci-dessus"
+
+#: admin/views/admin-settings-help.php:65
+msgid "Other shortcodes"
+msgstr "Autres codes courts"
+
+#: admin/views/admin-settings-help.php:66
+msgid ""
+"These shortcodes can be used in pages and posts on your website. It is not "
+"recommended to use these inside the cookie bar itself."
+msgstr ""
+"Ces codes courts peuvent être utilisés avec des pages ou des articles sur "
+"votre site. Il n’est pas recommandé de les utilisé à l’intérieur du bandeau "
+"de cookies lui-même."
+
+#: admin/views/admin-settings-help.php:72
+msgid ""
+"This prints out a nice table of cookies, in line with the guidance given by "
+"the ICO."
+msgstr ""
+"Cela affiche un joli tableau de cookies le plus conforme possible avec la "
+"règlementation."
+
+#: admin/views/admin-settings-help.php:72
+msgid ""
+"You need to enter the cookies your website uses via the Cookie Law Info menu "
+"in your WordPress dashboard."
+msgstr ""
+"Vous devez saisir les cookies que votre site utilise avec le menu Cookies "
+"dans votre tableau de bord WordPress."
+
+#: admin/views/admin-settings-help.php:80
+msgid "Styles included"
+msgstr "Styles inclus"
+
+#: admin/views/admin-settings-help.php:82
+msgid "Columns available"
+msgstr "Colonnes disponibles"
+
+#: admin/views/admin-settings-help.php:82
+msgid "Will print all columns by default."
+msgstr "Imprime toutes les colonnes par défaut."
+
+#: admin/views/admin-settings-help.php:86
+msgid ""
+"This shortcode will display a normal HTML link which when clicked, will "
+"delete the cookie set by Cookie Law Info (this cookie is used to remember "
+"that the cookie bar is closed)."
+msgstr ""
+"Ce code court affichera un lien HTML classique. Lorsqu’il sera cliqué, il "
+"supprimera le cookie déposé par Cookie Law Info (ce cookie est utilisé pour "
+"se souvenir que le bandeau de cookies a été fermé)."
+
+#: admin/views/admin-settings-help.php:90
+msgid ""
+"Add any text you like- useful if you want e.g. another language to English."
+msgstr ""
+"Ajouter le texte que vous souhaitez – utile par exemple pour le multilingue."
+
+#: admin/views/admin-settings-help.php:94
+msgid "Add content after accepting the cookie notice."
+msgstr "Ajouter du contenu après avoir accepté la notification de cookie."
+
+#: admin/views/admin-settings-help.php:107
+#: admin/views/admin-settings-help.php:110 admin/views/goto-pro.php:103
+msgid "Documentation"
+msgstr "Documentation"
+
+#: admin/views/admin-settings-help.php:108
+msgid "Refer to our documentation to set and get started"
+msgstr "Reportez-vous à notre documentation pour définir et commencer"
+
+#: admin/views/admin-settings-help.php:115
+msgid "Help and Support"
+msgstr "Aide et support"
+
+#: admin/views/admin-settings-help.php:116
+msgid "We would love to help you on any queries or issues."
+msgstr ""
+"Nous serions ravis de vous aider si vous avez des questions ou des problèmes."
+
+#: admin/views/admin-settings-help.php:118
+msgid "Contact Us"
+msgstr "Contactez-nous"
+
+#: admin/views/admin-settings-messagebar.php:11
+msgid "Message Heading"
+msgstr "En-tête du message"
+
+#: admin/views/admin-settings-messagebar.php:14
+msgid "Leave it blank, If you do not need a heading"
+msgstr "Laissez le champ vide, si vous n'avez pas besoin d'un titre"
+
+#: admin/views/admin-settings-messagebar.php:19
+msgid "Message"
+msgstr "Message"
+
+#: admin/views/admin-settings-messagebar.php:25
+msgid "Shortcodes allowed: see the Help Guide tab"
+msgstr "Shortcodes autorisés: voir l'onglet Help Guide"
+
+#: admin/views/admin-settings-messagebar.php:25
+msgid ""
+"Examples: \"We use cookies on this website [cookie_accept] to find out how "
+"to delete cookies [cookie_link].\""
+msgstr ""
+"Exemples: \"Nous utilisons des cookies sur ce site Web [cookie_accept] pour "
+"savoir comment supprimer les cookies [cookie_link].\""
+
+#: admin/views/admin-settings-messagebar.php:29
+msgid "Cookie Bar Colour"
+msgstr "Couleur du bandeau de cookies"
+
+#: admin/views/admin-settings-messagebar.php:39
+msgid "Text Colour"
+msgstr "Couleur du texte"
+
+#: admin/views/admin-settings-messagebar.php:49
+msgid "Show Border?"
+msgstr "Afficher la bordure ?"
+
+#: admin/views/admin-settings-messagebar.php:56
+msgid "Border Colour"
+msgstr "Couleur de la bordure"
+
+#: admin/views/admin-settings-messagebar.php:66
+msgid "Font"
+msgstr "Police"
+
+#: admin/views/admin-settings-save-button.php:12
+#: admin/views/admin_necessary_cookie.php:43
+#: admin/views/admin_non_necessary_cookie.php:86
+msgid "Update Settings"
+msgstr "Mettre à jour les réglages"
+
+#: admin/views/admin_necessary_cookie.php:23
+msgid "Necessary Cookie Settings"
+msgstr "Paramètres de cookies nécessaires"
+
+#: admin/views/admin_non_necessary_cookie.php:29
+msgid "Non-necessary Cookie Settings"
+msgstr "Réglages de cookies non indispensables"
+
+#: admin/views/admin_non_necessary_cookie.php:36
+msgid "Enable Non-necessary Cookie"
+msgstr "Activer les cookies non indispensables"
+
+#: admin/views/admin_non_necessary_cookie.php:43
+#, fuzzy
+#| msgid "Default theme font"
+msgid "Default state"
+msgstr "Police de thème par défaut"
+
+#: admin/views/admin_non_necessary_cookie.php:44
+#: public/views/cookie-law-info_popup_content.php:5
+msgid "Enabled"
+msgstr "Activée"
+
+#: admin/views/admin_non_necessary_cookie.php:45
+#: public/views/cookie-law-info_popup_content.php:6
+msgid "Disabled"
+msgstr "Désactivé"
+
+#: admin/views/admin_non_necessary_cookie.php:47
+msgid ""
+"If you enable this option, the category toggle button will be in the active "
+"state for cookie consent."
+msgstr ""
+"Si vous activez cette option, le bouton de basculement de catégorie sera à "
+"l'état actif pour l'autorisation de cookie."
+
+#: admin/views/admin_non_necessary_cookie.php:61
+msgid ""
+"This script will be added to the page HEAD section if the above settings is "
+"enabled and user has give consent."
+msgstr ""
+"Ce script sera ajouté dans l’élément HEAD si le réglage ci-dessus est activé "
+"et si le visiteur a donné son consentement."
+
+#: admin/views/admin_non_necessary_cookie.php:66
+msgid ""
+"Print scripts in the head tag on the front end if above cookie settings is "
+"enabled and user has given consent."
+msgstr ""
+"Intégrer les scripts dans l’élément head en frontal, si le visiteur a donné "
+"son consentement à l’utilisation des cookies et si son navigateur permet "
+"leur usage."
+
+#: admin/views/admin_non_necessary_cookie.php:73
+msgid ""
+"This script will be added right after the BODY section if the above settings "
+"is enabled and user has given consent."
+msgstr ""
+"Ce script sera ajouté juste après l’élément BODY si le réglage ci-dessus est "
+"activé et si le visiteur a donné son consentement."
+
+#: admin/views/admin_non_necessary_cookie.php:76
+msgid ""
+"Print scripts before the closing body tag on the front end if above cookie "
+"settings is enabled and user has given consent."
+msgstr ""
+"Intégrer les scripts avant la fermeture de l’élément body en frontal, si le "
+"visiteur a donné son consentement à l’utilisation des cookies et si son "
+"navigateur permet leur usage."
+
+#: admin/views/goto-pro.php:56
+msgid "Where did my settings go?"
+msgstr "Où sont passés mes réglages ?"
+
+#: admin/views/goto-pro.php:57
+msgid "Cookie Law Info version 0.9 has been updated and has new settings."
+msgstr ""
+"Cookie Law Info version 0.9 a été mis à jour et dispose de nouveaux réglages."
+
+#: admin/views/goto-pro.php:57
+msgid "Your previous settings are safe."
+msgstr "Vos réglages précédents sont sécurisés."
+
+#: admin/views/goto-pro.php:58
+msgid ""
+"You can either copy over your old settings to this version, or use the new "
+"default values."
+msgstr ""
+"Vous pouvez copier vos anciens réglages vers cette version, ou utiliser les "
+"nouvelles valeurs par défaut."
+
+#: admin/views/goto-pro.php:60
+msgid "Would you like to:"
+msgstr "Souhaitez-vous :"
+
+#: admin/views/goto-pro.php:62
+msgid "Use previous settings"
+msgstr "Utiliser les réglages précédents"
+
+#: admin/views/goto-pro.php:63
+msgid "Start afresh with the new version"
+msgstr "Recommencer à nouveau avec la nouvelle version"
+
+#: admin/views/goto-pro.php:67
+msgid ""
+"If you want to go back to the previous version you can always download it "
+"again from"
+msgstr ""
+"Si vous voulez revenir à la version précédente vous pouvez toujours la "
+"télécharger à nouveau sur"
+
+#: admin/views/goto-pro.php:73
+msgid "30 Day Money Back Guarantee"
+msgstr "Garantie de remboursement de 30 jours"
+
+#: admin/views/goto-pro.php:74
+msgid "Fast and Superior Support"
+msgstr "Support rapide et supérieur"
+
+#: admin/views/goto-pro.php:75
+msgid "10X Powerful with GDPR Cookie Consent Features That Every Site Needs"
+msgstr ""
+"10X puissant avec le consentement de cookie GDPR: toutes les fonctionnalités "
+"nécessaires"
+
+#: admin/views/goto-pro.php:78
+msgid "Upgrade to Premium"
+msgstr "Passer à la version premium"
+
+#: admin/views/goto-pro.php:84
+msgid "Automatic Cookie Scanner"
+msgstr "Scanner de cookies automatique"
+
+#: admin/views/goto-pro.php:85
+msgid ""
+"Auto block scripts - Google Analytics, Facebook Pixel, Google Tag Manager, "
+"Hotjar Analytics, Google Publisher Tag, Youtube embed, Vimeo embed, Google "
+"maps, Addthis widget, Sharethis widget, Twitter widget, Soundcloud embed, "
+"Slideshare embed, Linkedin widget, Instagram embed, Pinterest widget"
+msgstr ""
+"Scripts autobloquants - Google Analytics, Facebook Pixel, Google Tag "
+"Manager, Hotjar Analytics, Google Publisher Tag, YouTube intégré, Vimeo "
+"intégré, Google Maps, widget Addthis, Sharethis, Twitter, Twitter, "
+"Soundcloud intégré, SlideShare intégré, Linkedin intégré, Instagram "
+"intégré , Widget Pinterest"
+
+#: admin/views/goto-pro.php:86
+msgid "Location based exclusion of cookie notice for EU countries"
+msgstr ""
+"Exclusion basée sur la localisation de l'avis de cookie pour les pays de l'UE"
+
+#: admin/views/goto-pro.php:87
+msgid "Granular control over the cookies/scipts used by the website"
+msgstr "Contrôle granulaire des cookies utilisés par le site Web"
+
+#: admin/views/goto-pro.php:88
+msgid "User consent audit logs"
+msgstr "Journaux d'audit du consentement de l'utilisateur"
+
+#: admin/views/goto-pro.php:89
+msgid "Customized privacy overview"
+msgstr "Aperçu personnalisé de la confidentialité"
+
+#: admin/views/goto-pro.php:90
+msgid "Cookie bar preview in admin settings page"
+msgstr ""
+"Aperçu de la barre des cookies dans la page des paramètres de "
+"l'administrateur"
+
+#: admin/views/goto-pro.php:91
+msgid "Advanced support for cache plugins"
+msgstr "Prise en charge avancée des plugins de cache"
+
+#: admin/views/goto-pro.php:92
+msgid "Cookie bar theme customizer for banner/ widgets/ popup"
+msgstr ""
+"Personnalisateur de thème de barre de cookies pour bannière / widgets / popup"
+
+#: admin/views/goto-pro.php:93
+msgid "GDPR compliance with Google Tag Manager"
+msgstr "Conformité GDPR avec Google Tag Manager"
+
+#: admin/views/goto-pro.php:94
+msgid "Javascript helper functions"
+msgstr "Fonctions d'assistance Javascript"
+
+#: admin/views/goto-pro.php:108
+msgid "Like this plugin?"
+msgstr "Vous aimez cette extension ?"
+
+#: admin/views/goto-pro.php:109
+msgid "If you find this plugin useful please show your support and rate it"
+msgstr ""
+"Si vous avez trouvé cette extension utile, merci de montrer votre soutien et "
+"la noter"
+
+#: admin/views/goto-pro.php:109
+msgid " on"
+msgstr " sur"
+
+#: admin/views/goto-pro.php:109
+msgid "  much appreciated!"
+msgstr " Très apprécié !"
+
+#: public/class-cookie-law-info-public.php:74
+msgid "Necessary"
+msgstr "Nécessaire"
+
+#: public/class-cookie-law-info-public.php:75
+msgid "Non-necessary"
+msgstr "Non nécessaire"
+
+#: public/class-cookie-law-info-public.php:267
+msgid "GDPR Cookie Consent"
+msgstr "GDPR Cookie Consent"
+
+#: public/class-cookie-law-info-public.php:268
+msgid "Cookie List"
+msgstr "Liste des Cookies"
+
+#: public/class-cookie-law-info-public.php:269
+#: public/modules/shortcode/shortcode.php:202
+msgid "Cookie"
+msgstr "Cookie"
+
+#: public/class-cookie-law-info-public.php:270
+msgid "Add New"
+msgstr "Ajouter un nouveau"
+
+#: public/class-cookie-law-info-public.php:271
+msgid "Add New Cookie Type"
+msgstr "Ajouter un nouveau type de Cookie"
+
+#: public/class-cookie-law-info-public.php:272
+msgid "Edit Cookie Type"
+msgstr "Modifier le type de Cookie"
+
+#: public/class-cookie-law-info-public.php:273
+msgid "New Cookie Type"
+msgstr "Nouveau type de Cookie"
+
+#: public/class-cookie-law-info-public.php:274
+msgid "View Cookie Type"
+msgstr "Voir le type de cookie"
+
+#: public/class-cookie-law-info-public.php:275
+msgid "Search Cookies"
+msgstr "Rechercher des cookies"
+
+#: public/class-cookie-law-info-public.php:276
+msgid "Nothing found"
+msgstr "Rien de trouvé"
+
+#: public/class-cookie-law-info-public.php:277
+msgid "Nothing found in Trash"
+msgstr "Rien de trouvé dans la corbeille"
+
+#: public/modules/shortcode/shortcode.php:93
+msgid "Your current state:"
+msgstr "Votre état actuel:"
+
+#: public/modules/shortcode/shortcode.php:98
+msgid "Consent Accepted."
+msgstr "Consentement accepté."
+
+#: public/modules/shortcode/shortcode.php:101
+msgid "Consent rejected."
+msgstr "Consentement rejeté."
+
+#: public/modules/shortcode/shortcode.php:105
+msgid "No consent given."
+msgstr "Aucun consentement donné."
+
+#: public/modules/shortcode/shortcode.php:107
+msgid "Manage your consent."
+msgstr "Gérez votre consentement."
+
+#: public/modules/shortcode/shortcode.php:144
+msgid "Delete Cookies"
+msgstr "Supprimer les cookies"
+
+#: public/modules/shortcode/shortcode.php:180
+msgid "No records found"
+msgstr "Aucun enregistrement trouvé"
+
+#: public/modules/shortcode/shortcode.php:206
+msgid "Type"
+msgstr "Type"
+
+#: public/modules/shortcode/shortcode.php:210
+msgid "Duration"
+msgstr "Durée"
+
+#: public/views/cookie-law-info_popup_content.php:4
+msgid "Always Enabled"
+msgstr "Toujours activé"
+
+#: public/views/cookie-law-info_popup_content.php:7
+msgid "Show more"
+msgstr "Montre plus"
+
+#: public/views/cookie-law-info_popup_content.php:7
+msgid "Show less"
+msgstr "Montre moins"
+
+#~ msgid ""
+#~ "If you just want a standard green \"Accept\" button that closes the "
+#~ "header and nothing more, use this shortcode. It is already styled, you "
+#~ "don't need to customise it."
+#~ msgstr ""
+#~ "Si vous voulez juste un bouton vert \"Accepter\" standard qui ferme l'en-"
+#~ "tête et rien de plus, utilisez ce shortcode Il est déjà stylé, vous "
+#~ "n'avez pas besoin de le personnaliser."
+
+#~ msgid ""
+#~ "Alternatively you can add a colour value. Choose from: red, blue, orange, "
+#~ "yellow, green or pink."
+#~ msgstr ""
+#~ ".Vous pouvez aussi ajouter un nom de couleur (en anglais) Choisissez "
+#~ "parmi : red, blue, orange, yellow, green or pink."
+
+#~ msgid "Careful to use the British spelling of \"colour\" for the attribute."
+#~ msgstr ""
+#~ "Attention à utiliser l'orthographe britannique de \"couleur\" pour "
+#~ "l'attribut."
+
+#~ msgid "Cookie bar preview in admin settings page."
+#~ msgstr ""
+#~ "Aperçu de la barre de cookie dans la page de réglages de l’administration."
+
+#~ msgid "http://cookielawinfo.com/"
+#~ msgstr "http://cookielawinfo.com/"
+
+#~ msgid "Scan and import/export the cookies in the website."
+#~ msgstr "Scannez et importez / exportez les cookies sur le site Web."
+
+#~ msgid "Export/import cookies and related information via CSV file."
+#~ msgstr ""
+#~ "Exporter / importer des cookies et des informations connexes via un "
+#~ "fichier CSV."
+
+#~ msgid "Customize the privacy overview in the cookie settings popup."
+#~ msgstr ""
+#~ "Personnalisez la vue d'ensemble de la confidentialité dans la fenêtre "
+#~ "contextuelle des paramètres de cookies."
+
+#~ msgid "Optionally log users' consent and export into a CSV file."
+#~ msgstr "Log user consent and export it to a CSV file."
+
+#~ msgid ""
+#~ "Provide the users with the granular control over the cookies/scipts used "
+#~ "by the website."
+#~ msgstr ""
+#~ "Fournissez aux utilisateurs le contrôle granulaire sur les cookies / "
+#~ "scipts utilisés par le site."
+
+#~ msgid ""
+#~ "Scan and auto block scripts - Google Analytics, FB Pixel, Google tag "
+#~ "manager."
+#~ msgstr ""
+#~ "Scanner et bloquer automatiquement les scripts - Google Analytics, FB "
+#~ "Pixel, Google tag manager. "
+
+#~ msgid "WebToffee"
+#~ msgstr "WebToffee"
+
+#~ msgid "https://www.webtoffee.com/product/gdpr-cookie-consent/"
+#~ msgstr "https://www.webtoffee.com/product/gdpr-cookie-consent/"
+
+#~ msgid ""
+#~ "A simple way to show your website complies with the EU Cookie Law / GDPR."
+#~ msgstr ""
+#~ "Un moyen simple de montrer que votre site Web est conforme à la loi "
+#~ "européenne sur les cookies (GDPR)."
+
+#~ msgid "Upgrade to GDPR Pro"
+#~ msgstr "Mettre à niveau vers GDPR Pro"
+
+#~ msgid "Put the cookie bar in either the header or the footer."
+#~ msgstr "Placez la barre des cookies dans l'en-tête ou le pied de page."
+
+#~ msgid ""
+#~ "Allow to display cookie settings popup where site visitors can opt-in or "
+#~ "give consent to cookie categories."
+#~ msgstr ""
+#~ "Permet d'afficher les paramètres de cookies contextuels où les visiteurs "
+#~ "du site peuvent choisir ou donner leur consentement aux catégories de "
+#~ "cookies."
+
+#~ msgid "Manage Cookie Categories."
+#~ msgstr "Gérer les catégories de cookies."
+
+#~ msgid ""
+#~ "Manage list of cookies ( Name, CookieID, Description, Duration, Type, "
+#~ "Category, Header Script, Footer Script)."
+#~ msgstr ""
+#~ "Gérer la liste des cookies (Nom, ID Cookie, Description, Durée, Type, "
+#~ "Catégorie, Script d’en-tête, Script de pied de page)"

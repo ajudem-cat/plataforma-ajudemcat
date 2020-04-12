@@ -1,0 +1,101 @@
+/**
+ * Snippets list table
+ * @author Webcraftic <wordpress.webraftic@gmail.com> 
+ * @copyright Webcraftic 02.06.2018
+ */
+.wp-list-table th#title {
+  width: 20% !important;
+}
+.wp-list-table th#winp_snippet_type {
+  width: 70px !important;
+}
+.wp-list-table th#winp_actions {
+  width: 50px !important;
+}
+.wp-list-table th#winp_where_use {
+  width: 200px !important;
+}
+.wp-list-table th#winp_taxonomy-wbcr-snippet-tags {
+  width: 100px;
+}
+.wp-list-table td {
+  vertical-align: middle !important;
+  /*&.column-snippet_type {
+      text-align: center;
+    }*/
+}
+.wp-list-table .wbcr-inp-enable-snippet-button .dashicons {
+  margin-top: 3px;
+}
+.wp-list-table .wbcr-inp-enable-snippet-button .dashicons.dashicons-controls-pause {
+  color: #8bc34a;
+}
+.wp-list-table .wbcr-inp-snippet-type-label {
+  display: inline-block;
+  padding: 3px 8px 6px;
+  border-radius: 3px;
+  font-weight: bold;
+  width: 30px;
+  text-align: center;
+}
+.wp-list-table .wbcr-inp-snippet-type-label.wbcr-inp-type-php {
+  background: #777bb3;
+  color: #ffffff;
+}
+.wp-list-table .wbcr-inp-snippet-type-label.wbcr-inp-type-text {
+  background: #4CAF50;
+  color: #fffffd;
+}
+.wp-list-table .wbcr-inp-snippet-type-label.wbcr-inp-type-universal {
+  background: #607D8B;
+  color: #ffffff;
+}
+.wp-list-table .wbcr-inp-snippet-type-label.wbcr-inp-type-css {
+  background: #1572b6;
+  color: #ffffff;
+}
+.wp-list-table .wbcr-inp-snippet-type-label.wbcr-inp-type-js {
+  background: #f7df1e;
+  color: #655b0e;
+}
+.wp-list-table .wbcr-inp-snippet-type-label.wbcr-inp-type-html {
+  background: #e44d26;
+  color: #fffffd;
+}
+.wp-list-table .wbcr-inp-status-marker {
+  display: inline-block;
+  border-radius: 100%;
+  width: 10px;
+  height: 10px;
+  margin-left: 5px;
+}
+.wp-list-table .wbcr-inp-status-marker.wbcr-inp-status-green {
+  background: #8bc34a;
+}
+.wp-list-table .wbcr-inp-status-marker.wbcr-inp-status-grey {
+  background: #c0c0c0;
+}
+@media screen and (max-width: 1350px) {
+  .wp-list-table th#description,
+  .wp-list-table th.column-description {
+    width: 0;
+    font-size: 0;
+  }
+  .wp-list-table th#actions {
+    width: 50px !important;
+  }
+  .wp-list-table th#where_use {
+    width: 100px !important;
+  }
+  .wp-list-table th#taxonomy-wbcr-snippet-tags {
+    width: 60px !important;
+  }
+  .wp-list-table th#snippet_type {
+    width: 50px !important;
+  }
+  .wp-list-table td.column-description {
+    width: 0;
+    font-size: 0;
+  }
+}
+/*# sourceMappingURL=list-table.css.map */

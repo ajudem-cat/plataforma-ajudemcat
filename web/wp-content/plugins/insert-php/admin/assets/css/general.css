@@ -1,0 +1,204 @@
+/**
+ * General styles for snippets post types
+ * @author Webcraftic <wordpress.webraftic@gmail.com>
+ * @copyright Webcraftic 28.05.2018
+ */
+.wbcr-inp-snippet-type-php .CodeMirror-sizer:before {
+  content: "<?php";
+  color: #bbb;
+  padding: 4px 5px 0;
+}
+.wbcr-inp-snippet-type-css .CodeMirror-sizer:before {
+  content: '<style type="text/css">';
+  color: #bbb;
+  padding: 4px 5px 0;
+}
+.wbcr-inp-snippet-type-css .CodeMirror:after {
+  content: '</style>';
+  position: absolute;
+  display: block;
+  left: 55px;
+  bottom: 3px;
+  color: #bbb;
+}
+.wbcr-inp-snippet-type-js .CodeMirror-sizer:before {
+  content: '<script type="text/javascript">';
+  color: #bbb;
+  padding: 4px 5px 0;
+}
+.wbcr-inp-snippet-type-js .CodeMirror:after {
+  content: '</script>';
+  position: absolute;
+  display: block;
+  left: 55px;
+  bottom: 3px;
+  color: #bbb;
+}
+.CodeMirror {
+  height: auto !important;
+  border: 0 !important;
+}
+.CodeMirror .cm-winp-matchhighlight {
+  background-color: rgba(255, 143, 26, 0.21);
+  border: 0 !important;
+}
+.CodeMirror .CodeMirror-selection-highlight-scrollbar {
+  background-color: rgba(255, 143, 26, 0.61);
+}
+.CodeMirror-scroll {
+  min-height: 250px;
+}
+.misc-pub-post-status,
+.misc-pub-visibility {
+  display: none;
+}
+.postbox {
+  display: none;
+}
+#WINP_BaseOptionsMetaBox,
+#WINP_InfoMetaBox,
+#tagsdiv-wbcr-snippet-tags,
+#submitdiv {
+  display: block;
+}
+#WINP_BaseOptionsMetaBox.hide-if-js,
+#WINP_InfoMetaBox.hide-if-js,
+#tagsdiv-wbcr-snippet-tags.hide-if-js,
+#submitdiv.hide-if-js {
+  display: none;
+}
+#WINP_InfoMetaBox {
+  color: #222;
+}
+#WINP_InfoMetaBox h2 {
+  display: none;
+  font-size: 12px;
+  color: #353535;
+  text-transform: uppercase;
+}
+#WINP_InfoMetaBox h4 {
+  margin: 0;
+  text-align: center;
+}
+#WINP_InfoMetaBox .inside {
+  padding: 0;
+  margin: 0;
+}
+#WINP_InfoMetaBox .wbcr-inp-metabox-banner .wbcr-inp-big-text {
+  display: block;
+  color: #9ca096;
+  font-size: 15px;
+  padding: 15px;
+  text-align: center;
+}
+#WINP_InfoMetaBox .wbcr-inp-metabox-banner .wbcr-inp-image img {
+  width: 100%;
+}
+#WINP_InfoMetaBox .wbcr-inp-metabox-banner .wbcr-inp-title {
+  padding: 15px;
+  margin: 0;
+  font-size: 15px;
+  text-align: center;
+  color: #ca4a1f;
+  background: #fff5f4;
+}
+#WINP_InfoMetaBox .wbcr-inp-metabox-banner .wbcr-inp-title span {
+  font-size: 12px;
+}
+#WINP_InfoMetaBox .wbcr-inp-metabox-banner .wbcr-inp-button {
+  display: block;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  text-decoration: none;
+  color: #828282;
+  font-weight: 600;
+  background-color: #f7f7f7;
+  padding: 15px 30px 15px 30px;
+  box-shadow: 0 1px 3px #b9b9b9;
+  border-bottom: 1px solid #e8e8e8;
+  margin: 10px;
+}
+.winp-enable-php-wrapper {
+  margin: 15px 0 auto;
+}
+.winp-enable-php-wrapper .winp-enable-php-btn i {
+  font-size: 1.2em;
+  line-height: inherit;
+  height: auto;
+}
+.winp-editor-container {
+  visibility: hidden;
+  height: 0;
+}
+.winp-snippet-enabled .winp-editor-container {
+  margin-top: 20px;
+  visibility: visible;
+  height: auto;
+}
+.winp-snippet-enabled .composer-switch,
+.winp-snippet-enabled .fl-builder-admin,
+.winp-snippet-enabled #postdivrich,
+.winp-snippet-enabled #elementor-switch-mode,
+.winp-snippet-enabled.elementor-editor-active #elementor-editor,
+.winp-snippet-enabled #elementor-editor {
+  display: none;
+}
+.winp-snippet-enabled #wpb_visual_composer {
+  display: none !important;
+}
+.winp-php-content {
+  height: 300px;
+  width: 100%;
+  box-sizing: border-box;
+  z-index: auto;
+  position: relative;
+  -webkit-transition: none;
+  transition: none;
+  background: transparent !important;
+}
+#winp-export-action {
+  float: left;
+  line-height: 28px;
+  padding-right: 10px;
+}
+.winp-import-radio-container label {
+  font-weight: normal;
+}
+.wrap .winp-page-title-action {
+  margin-left: 4px;
+  padding: 4px 8px;
+  position: relative;
+  top: -3px;
+  text-decoration: none;
+  border: 1px solid #ccc;
+  border-radius: 2px;
+  background: #f7f7f7;
+  text-shadow: none;
+  font-weight: 600;
+  font-size: 13px;
+  line-height: normal;
+  color: #0073aa;
+  cursor: pointer;
+}
+.wrap .winp-field-premium-icon::after {
+  display: inline-block;
+  position: relative;
+  content: 'PRO';
+  background: #ff5722;
+  border-radius: 4px;
+  color: #fff;
+  font-size: 10px;
+  line-height: 1;
+  font-style: normal;
+  padding: 4px 6px;
+  margin-left: 4px;
+  vertical-align: top;
+  top: -40px;
+  left: 230px;
+  z-index: 11;
+}
+.wrap .winp-field-w250 {
+  width: 250px;
+}
+/*# sourceMappingURL=general.css.map */

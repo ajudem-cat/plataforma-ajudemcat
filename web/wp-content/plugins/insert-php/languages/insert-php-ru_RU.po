@@ -1,0 +1,1570 @@
+# Translation of Plugins - Woody ad snippets &#8211; insert any code, text, or ads via using conditions - Development (trunk) in Russian
+# This file is distributed under the same license as the Plugins - Woody ad snippets &#8211; insert any code, text, or ads via using conditions - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-05-15 16:59+0300\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"X-Generator: Poedit 1.8.7\n"
+"Language: ru_RU\n"
+"Project-Id-Version: Plugins - Woody ad snippets &#8211; insert any code, text, or ads via using conditions - Development (trunk)\n"
+"POT-Creation-Date: 2019-04-29 19:38+0000\n"
+"Last-Translator: admin <sasha.tesh@gmail.com>\n"
+"Language-Team: Русский\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Loco-Version: 2.2.0; wp-4.9.8\n"
+
+#: insert_php.php:61 admin/boot.php:180
+msgid "Woody ad snippets"
+msgstr "Woody ad snippets"
+
+#: includes/class.helpers.php:326
+msgid "Simple php snippet: Disable emojis"
+msgstr "Простой PHP сниппет: Отключить эмодзи"
+
+#: includes/class.helpers.php:331
+msgid "Emojis are little icons used to express ideas or emotions. While these icons are fun and all, are they really necessary for your WordPress site? This snippet to disable emojis on your site to make it faster."
+msgstr "Эмодзи - это небольшие иконки, выражающие какие-то мысли или эмоции. Но действительно ли вашему сайту нужны эти забавные смайлики? Данный сниппет отключает эмодзи и позволяет ускорить сайт."
+
+#: includes/class.helpers.php:336
+msgid "Simple text snippet: What is Lorem Ipsum?"
+msgstr "Простой текстовый сниппет: Что такое Lorem Ipsum?"
+
+#: includes/class.helpers.php:341
+msgid "This ordinary maintenance text. With this snippet, you can fill your pages with meaningless English text."
+msgstr "Это обычный текст-заполнитель. С данным сниппетом вы можете заполнить страницы бессмысленным текстом на латинице."
+
+#: includes/class.helpers.php:347
+msgid "Simple universal snippet: Google analytics tracking"
+msgstr "Простой универсальный плагин: отслеживание Google Analytics"
+
+#: includes/class.helpers.php:534
+msgid "Purchase premium for"
+msgstr "Приобрести премиум за"
+
+#: admin/includes/class.snippets.table.php:215
+msgid "Type"
+msgstr "Тип"
+
+#: admin/includes/class.snippets.table.php:216
+msgid "Title"
+msgstr "Заголовок"
+
+#: admin/includes/class.snippets.table.php:217
+#: admin/includes/class.snippets.viewtable.php:17
+#: admin/metaboxes/base-options.php:632
+msgid "Description"
+msgstr "Описание"
+
+#: admin/includes/class.snippets.table.php:218
+msgid "Date"
+msgstr "Дата"
+
+#: admin/includes/class.snippets.table.php:219
+msgid "Insert"
+msgstr "Вставить"
+
+#: admin/includes/class.snippets.table.php:223
+#: admin/includes/class.actions.snippet.php:110
+#: admin/metaboxes/revisions.php:101 admin/metaboxes/revisions.php:138
+msgid "Delete"
+msgstr "Удалить"
+
+#: admin/includes/class.filter.snippet.php:41
+msgid "Filter by tag:"
+msgstr "Сортировка по тегу:"
+
+#: admin/includes/class.actions.snippet.php:89
+#: admin/includes/class.actions.snippet.php:178 admin/pages/import.php:121
+msgid "Export"
+msgstr "Экспорт"
+
+#: admin/includes/class.actions.snippet.php:111
+msgid "Deactivate"
+msgstr "Деактивировать"
+
+#: admin/includes/class.actions.snippet.php:112
+msgid "Activate"
+msgstr "Активировать"
+
+#: admin/includes/class.actions.snippet.php:175
+msgid "Close"
+msgstr "Закрыть"
+
+#: admin/includes/class.snippets.viewtable.php:16
+msgid "Snippet title"
+msgstr "Заголовок сниппета"
+
+#: admin/includes/class.snippets.viewtable.php:18
+msgid "Status"
+msgstr "Статус"
+
+#: admin/includes/class.snippets.viewtable.php:19
+msgid "Where use?"
+msgstr "Где использовать?"
+
+#: admin/includes/class.snippets.viewtable.php:20
+#: admin/types/snippets-taxonomy.php:34
+msgid "Tags"
+msgstr "Теги"
+
+#: admin/includes/class.snippets.viewtable.php:65
+msgid "Run everywhere"
+msgstr "Запустить везде"
+
+#: admin/includes/class.snippets.viewtable.php:68
+msgid "Header"
+msgstr "Header"
+
+#: admin/includes/class.snippets.viewtable.php:69
+#: admin/metaboxes/base-options.php:476
+msgid "Footer"
+msgstr "Footer"
+
+#: admin/includes/class.snippets.viewtable.php:70
+#: admin/metaboxes/base-options.php:487
+msgid "Insert Before Post"
+msgstr "Добавить между записями"
+
+#: admin/includes/class.snippets.viewtable.php:71
+#: admin/metaboxes/base-options.php:492
+msgid "Insert Before Content"
+msgstr "Добавить до содержимого"
+
+#: admin/includes/class.snippets.viewtable.php:72
+#: admin/metaboxes/base-options.php:497
+msgid "Insert Before Paragraph"
+msgstr "Добавить до абзаца"
+
+#: admin/includes/class.snippets.viewtable.php:73
+#: admin/metaboxes/base-options.php:502
+msgid "Insert After Paragraph"
+msgstr "Добавить после абзаца"
+
+#: admin/includes/class.snippets.viewtable.php:74
+#: admin/metaboxes/base-options.php:507
+msgid "Insert After Content"
+msgstr "Добавить после содержимого"
+
+#: admin/includes/class.snippets.viewtable.php:75
+#: admin/metaboxes/base-options.php:512
+msgid "Insert After Post"
+msgstr "Добавить после записи"
+
+#: admin/includes/class.snippets.viewtable.php:76
+#: admin/metaboxes/base-options.php:523
+msgid "Insert Before Excerpt"
+msgstr "Добавить перед превью"
+
+#: admin/includes/class.snippets.viewtable.php:77
+#: admin/metaboxes/base-options.php:528
+msgid "Insert After Excerpt"
+msgstr "Добавить после превью"
+
+#: admin/includes/class.snippets.viewtable.php:78
+#: admin/metaboxes/base-options.php:533
+msgid "Between Posts"
+msgstr "Между записями"
+
+#: admin/includes/class.snippets.viewtable.php:79
+#: admin/metaboxes/base-options.php:538
+msgid "Before post"
+msgstr "Перед записью"
+
+#: admin/includes/class.snippets.viewtable.php:80
+#: admin/metaboxes/base-options.php:543
+msgid "After post"
+msgstr "После записи"
+
+#: admin/includes/class.snippets.viewtable.php:86
+#: admin/includes/class.snippets.viewtable.php:104
+#: admin/metaboxes/base-options.php:466
+msgid "Everywhere"
+msgstr "Везде"
+
+#: admin/includes/class.snippets.viewtable.php:94
+#: admin/metaboxes/base-options.php:482
+msgid "Posts, Pages, Custom post types"
+msgstr "Записи, страницы, произвольные типы записей"
+
+#: admin/includes/class.snippets.viewtable.php:101
+#: admin/metaboxes/base-options.php:518
+msgid "Categories, Archives, Tags, Taxonomies"
+msgstr "Рубрики, архивы, теги, таксономии"
+
+#: admin/includes/class.snippets.viewtable.php:106
+msgid "Automatic insertion"
+msgstr "Авто-размещение"
+
+#: admin/includes/class.api.php:266
+msgid "Synchronization snippet error"
+msgstr "Ошибка синхронизации снипета"
+
+#: admin/includes/class.api.php:269
+msgid "Unknown sippet type"
+msgstr "Неизвестный тип сниппета"
+
+#: admin/includes/class.dashboard.widget.php:57
+msgid "Woody News"
+msgstr "Woody новости"
+
+#: admin/includes/class.dashboard.widget.php:147
+msgid "Woody Banner"
+msgstr "Woody баннер"
+
+#: admin/includes/class.dashboard.widget.php:170
+#: admin/includes/class.dashboard.widget.php:181
+msgid "No news"
+msgstr "Нет новостей"
+
+#: admin/includes/class.common.snippet.php:62
+#, php-format
+msgid "The %s directory could not be created"
+msgstr "Директория %s не может быть создана"
+
+#: admin/includes/class.common.snippet.php:63
+msgid "Please run the following commands in order to make the directory"
+msgstr "Пожалуйста сделайте следующие команды, чтобы сделать директорию"
+
+#: admin/includes/class.common.snippet.php:72
+#, php-format
+msgid "The %s directory is not writable, therefore the CSS and JS files cannot be saved."
+msgstr "Директория %s недоступа для записи, поэтому CSS и JS файлы не могу быть сохранены."
+
+#: admin/includes/class.common.snippet.php:73
+msgid "Please run the following command to make the directory writable"
+msgstr "Пожалуйста запустите следующие команды, чтобы можно было записывать в директорию"
+
+#: admin/includes/class.common.snippet.php:91
+#: admin/includes/class.common.snippet.php:148
+msgid "Php snippet"
+msgstr "PHP сниппет"
+
+#: admin/includes/class.common.snippet.php:92
+#: admin/includes/class.common.snippet.php:149 admin/pages/new-item.php:59
+msgid "Text snippet"
+msgstr "Текстовый сниппет"
+
+#: admin/includes/class.common.snippet.php:93
+#: admin/includes/class.common.snippet.php:150 admin/pages/new-item.php:69
+msgid "Css snippet"
+msgstr "CSS сниппет"
+
+#: admin/includes/class.common.snippet.php:94
+#: admin/includes/class.common.snippet.php:151
+msgid "Js snippet"
+msgstr "JS сниппет"
+
+#: admin/includes/class.common.snippet.php:95
+#: admin/includes/class.common.snippet.php:152
+msgid "Html snippet"
+msgstr "HTML сниппет"
+
+#: admin/includes/class.common.snippet.php:96
+#: admin/includes/class.common.snippet.php:153 admin/pages/new-item.php:64
+msgid "Universal snippet"
+msgstr "Универсальный сниппет"
+
+#: admin/includes/class.common.snippet.php:122
+#: admin/types/snippets-post-types.php:41
+#: admin/types/snippets-post-types.php:42
+msgid "Woody snippets"
+msgstr "Woody snippets"
+
+#: admin/includes/class.common.snippet.php:131
+#: admin/includes/class.common.snippet.php:184
+msgid "Add"
+msgstr "Добавить"
+
+#: admin/includes/class.common.snippet.php:156
+msgid "Edit php snippet"
+msgstr "Изменить PHP сниппет"
+
+#: admin/includes/class.common.snippet.php:157
+msgid "Edit text snippet"
+msgstr "Изменить текстовый сниппет"
+
+#: admin/includes/class.common.snippet.php:158
+msgid "Edit css snippet"
+msgstr "Изменить CSS снипет"
+
+#: admin/includes/class.common.snippet.php:159
+msgid "Edit js snippet"
+msgstr "Изменить JS сниппет"
+
+#: admin/includes/class.common.snippet.php:160
+msgid "Edit html snippet"
+msgstr "Изменить HTML снипет"
+
+#: admin/includes/class.common.snippet.php:161
+msgid "Edit universal snippet"
+msgstr "Изменить глобальный сниппет"
+
+#: admin/includes/class.common.snippet.php:273
+msgid "Permalink"
+msgstr "Постоянная ссылка"
+
+#: admin/includes/class.common.snippet.php:275
+msgid "Edit permalink"
+msgstr "Изменить постоянную ссылку"
+
+#: admin/includes/class.common.snippet.php:275
+#: admin/types/snippets-post-types.php:77
+msgid "Edit"
+msgstr "Изменить"
+
+#: admin/includes/class.notices.php:57
+msgid "Have feedback on Woody ad Snippets?"
+msgstr "Есть, что сказать о Woody ad Snippets?"
+
+#: admin/includes/class.notices.php:57
+msgid "Please take the time to answer a short survey on how you use this plugin and what you'd like to see changed or added in the future."
+msgstr "Пожалуйста, пройдите небольшой опрос о Вашем опыте работы с плагином и поделитесь своими пожеланиями к функционалу: какие опции можно изменить или добавить."
+
+#: admin/includes/class.notices.php:58
+msgid "Take the survey now"
+msgstr "Пройти опрос"
+
+#: admin/includes/class.notices.php:79
+#, php-format
+msgid "The snippet has been deactivated due to an error on line %d:"
+msgstr "Сниппет был отключен, из-за ошибки в строке %d:"
+
+#: admin/includes/class.notices.php:96
+#, php-format
+msgid "Attention! If you have previously used version 1.3.0 of plugin Insert php. This new %s plugin version, we added the ability to insert php code using snippets. This is a more convenient and secure way than using shortcodes [insert_php] code execute [/ insert_php]. However, for compatibility reasons, we left support for [insert_php] shortcodes until March 2019, after that we will stop supporting shortcodes [insert_php]."
+msgstr "Внимание всем пользователям версии 1.3.0 плагина Insert php. Это новая версия плагина %s. Мы добавили возможность размещения PHP кода через сниппеты. Это более удобный и безопасный способ работы, по сравнению с шорткодами [insert_php] выполнения кода [/ insert_php]. Для большего удобства мы сохранили поддержку старых шорткодов [insert_php] до марта 2019. Затем поддержка данных сниппетов прекратится."
+
+#: admin/includes/class.notices.php:98
+msgid "We strongly recommend you to porting your php code to snippets and call them in your posts/pages and widgets using [wbcr_php_snippet id = \"000\"] shortcodes."
+msgstr "Мы настоятельно рекомендуем переносить PHP код в сниппеты и вызывать их в записях/страницах и виджетах через шорткоды [wbcr_php_snippet id = \"000\"] "
+
+#: admin/includes/class.notices.php:99
+#, php-format
+msgid "For more information on porting code and using snippets, see our plugin <a href=\"%s\" target=\"_blank\">documentation</a>"
+msgstr "Подробнее о размещении кода и использовании сниппетов читайте в <a href=\"%s\" target=\"_blank\">документации плагина</a> "
+
+#: admin/includes/class.notices.php:101
+msgid "Create new php snippet"
+msgstr "Создать новый PHP сниппет"
+
+#: admin/includes/class.notices.php:103
+msgid "Download old version"
+msgstr "Скачать старую версию"
+
+#: admin/includes/class.notices.php:104
+#, php-format
+msgid "If you have issues with the plugin new version or any suggestions, please contact us on <a href=\"%s\" target=\"_blank\">our forum</a>."
+msgstr "Если у вас возникли проблемы с новой версией плагина или появились предложения, то напишите нам <a href=\"%s\" target=\"_blank\">на форуме</a>"
+
+#: admin/includes/class.notices.php:122
+msgid "Running in safe mode. This mode your snippets will not be started."
+msgstr "Запуск в безопасном режиме. Так сниппеты не будут выполняться."
+
+#: admin/includes/class.notices.php:123
+msgid "Disable Safe Mode"
+msgstr "Отключить безопасный режим"
+
+#: admin/types/snippets-taxonomy.php:35
+msgid "Tag"
+msgstr "Тег"
+
+#: admin/types/snippets-post-types.php:74
+msgid "Snippets"
+msgstr "Сниппеты"
+
+#: admin/types/snippets-post-types.php:75 admin/pages/new-item.php:30
+msgid "+ Add snippet"
+msgstr "+ Добавить сниппет"
+
+#: admin/types/snippets-post-types.php:76
+msgid "Add new"
+msgstr "Добавить новый"
+
+#: admin/types/snippets-post-types.php:78
+msgid "Edit snippet"
+msgstr "Изменить сниппет"
+
+#: admin/types/snippets-post-types.php:79
+msgid "New snippet"
+msgstr "Новый сниппет"
+
+#: admin/types/snippets-post-types.php:81
+msgid "View snippet"
+msgstr "Просмотр сниппета"
+
+#: admin/types/snippets-post-types.php:82
+msgid "Search snippets"
+msgstr "Поиск сниппетов"
+
+#: admin/types/snippets-post-types.php:83
+msgid "Snippet is not found"
+msgstr "Сниппет не найден"
+
+#: admin/types/snippets-post-types.php:84
+msgid "Snippt is not found in trash"
+msgstr "Сниппет не найден в Корзине."
+
+#: admin/types/snippets-post-types.php:85
+msgid "Parent snippet"
+msgstr "Сниппет-предок"
+
+#: admin/pages/new-item.php:54
+msgid "PHP snippet"
+msgstr "PHP сниппет"
+
+#: admin/pages/new-item.php:56
+msgid "Used for inserting php code. Can be used for registering functions, hooks, global variables, printing text. Virtual functions.php"
+msgstr "Используется для добавления PHP кода. Подходит для регистрирования функций, хуков, глобальных переменных, вывода текста. Виртуальный functions.php"
+
+#: admin/pages/new-item.php:61
+msgid "Used for inserting formatted text. Can be used for inserting quotes, paragraphs, shortcodes from other plugins, tables, media files."
+msgstr "Используется для добавления форматированного текста. Подходит для размещения цитат, абзацев, шорткодов других плагинов, таблиц и медиафайлов."
+
+#: admin/pages/new-item.php:66
+msgid "Used for inserting php, html, js & css code. Can be used for inserting ads, analytics, embeds & other complex scenarios."
+msgstr "Используется для добавления PHP, HTML, JS и CSS кода. Подходит для размещения рекламы, аналитики, встроенных и сложных сценариев"
+
+#: admin/pages/new-item.php:71
+msgid "Used for inserting css code. Can be used for inserting css styles."
+msgstr "Используется для вставки CSS кода."
+
+#: admin/pages/new-item.php:74
+msgid "JavaScript snippet"
+msgstr "JavaScript сниппеты"
+
+#: admin/pages/new-item.php:76
+msgid "Used for inserting js code. Can be used for inserting ads, analytics, embeds & other complex scenarios."
+msgstr "Используется для вставки JS кода. Также может использоваться для вставки рекламы, аналитики, вставок & других сложных сценариев."
+
+#: admin/pages/new-item.php:79
+msgid "HTML snippet"
+msgstr "HTML сниппет"
+
+#: admin/pages/new-item.php:81
+msgid "Used for inserting html code. Can be used for inserting html code."
+msgstr "Используется для вставки HTML кода."
+
+#: admin/pages/new-item.php:86
+msgid "Creating New Snippet"
+msgstr "Создание нового сниппета"
+
+#: admin/pages/new-item.php:87
+msgid "Choose which snippet you would like to create."
+msgstr "Укажите, какой сниппет вы хотите создать"
+
+#: admin/pages/new-item.php:99
+msgid "Create Item"
+msgstr "Создать элемент"
+
+#: admin/pages/new-item.php:102
+msgid "Click here to learn more"
+msgstr "Подробная информация"
+
+#: admin/pages/about.php:29
+msgid "About"
+msgstr "О продукте"
+
+#: admin/pages/about.php:47
+msgid "What&#8217;s New"
+msgstr "Что нового"
+
+#: admin/pages/about.php:48
+msgid "Documentation"
+msgstr "Документация"
+
+#: admin/pages/license.php:91
+msgid "License"
+msgstr "Лицензия"
+
+#: admin/pages/license.php:215
+#, php-format
+msgid "Activate %s"
+msgstr "Активировать %s"
+
+#: admin/pages/license.php:226
+#, php-format
+msgid "Upgrade to Premium for $%s"
+msgstr "Обновить до премиум за $%s"
+
+#: admin/pages/license.php:229
+#, php-format
+msgid "Your current license for %1$s:"
+msgstr "Ваша текущая лицензия для %1$s:"
+
+#: admin/pages/license.php:235
+msgid "Delete Key"
+msgstr "Удалить"
+
+#: admin/pages/license.php:239
+msgid "Synchronization"
+msgstr "Синхронизация"
+
+#: admin/pages/license.php:258
+msgid "Public License is a GPLv2 compatible license allowing you to change and use this version of the plugin for free. Please keep in mind this license covers only free edition of the plugin. Premium versions are distributed with other type of a license."
+msgstr "Public License это GPLv2-совместимая лицензия, которая позволяет изменять и использовать эту версию плагина бесплатно. Пожалуйста, имейте в виду, что эта лицензия относиться только к бесплатной редакции плагина. Премимум версии плагина распространяются в рамках другой лицензии."
+
+#: admin/pages/license.php:262
+msgid "You use a paid subscription for the plugin updates. In case you don’t want to receive paid updates, please, click <a data-action=\"unsubscribe\" class=\"winp-control-btn\" href=\"#\">cancel subscription</a>"
+msgstr "Вы используете платную подписку на обновления плагина. В случае если вы не хотите получить платные обновления, нажмите <a data-action=\"unsubscribe\" class=\"winp-control-btn\" href=\"#\">отменить подписку</a>"
+
+#: admin/pages/license.php:268
+msgid "Your license has expired, please extend the license to get updates and support."
+msgstr "Срок действия вашей лицензии истек, пожалуйста, продлите лицензию, чтобы получать обновления и поддержку."
+
+#: admin/pages/license.php:276
+msgid "domain"
+msgstr "домен"
+
+#: admin/pages/license.php:280
+msgid "plan"
+msgstr "тарифный план"
+
+#: admin/pages/license.php:286
+msgid "of"
+msgstr "до"
+
+#: admin/pages/license.php:288
+msgid "active sites"
+msgstr "активировано"
+
+#: admin/pages/license.php:293
+msgid "version"
+msgstr "версия"
+
+#: admin/pages/license.php:298
+msgid "EXPIRED!"
+msgstr "ИСТЕКЛА!"
+
+#: admin/pages/license.php:299
+msgid "please update the key"
+msgstr "пожалуйста, обновите лицензионный ключ"
+
+#: admin/pages/license.php:309
+msgid "day(s)"
+msgstr "дней"
+
+#: admin/pages/license.php:311
+msgid "remained"
+msgstr "осталось"
+
+#: admin/pages/license.php:322
+msgid "Have a key to activate the premium version? Paste it here:"
+msgstr "Есть ключ для активации премиум версии? Вставьте его здесь:"
+
+#: admin/pages/license.php:324
+msgid "Have a key to activate the plugin? Paste it here:"
+msgstr "Есть ключ для активации плагина? Вставьте его здесь:"
+
+#: admin/pages/license.php:330
+msgid "Submit Key"
+msgstr "Отправить"
+
+#: admin/pages/license.php:338
+#, php-format
+msgid "<a href=\"%s\" target=\"_blank\" rel=\"noopener\">Lean more</a> about the premium version and get the license key to activate it now!"
+msgstr "<a href=\"%s\" target=\"_blank\" rel=\"noopener\">Узнать больше</a> о премиум версии и получить ключ лицензии прямо сейчас!"
+
+#: admin/pages/license.php:342
+#, php-format
+msgid "Can’t find your key? Go to <a href=\"%s\" target=\"_blank\" rel=\"noopener\">this page</a> and login using the e-mail address associated with your purchase."
+msgstr "Не можете найти свой ключ? Перейдите на <a href=\"%s\" target=\"_blank\" rel=\"noopener\">эту страницу</a> и авторизуйтесь используя свой email, на который вы делали покупку."
+
+#: admin/pages/snippet-library.php:29 admin/pages/snippet-library.php:122
+#: admin/pages/snippet-library.php:129
+msgid "Snippet library"
+msgstr "Библиотека сниппетов"
+
+#: admin/pages/snippet-library.php:61
+msgid "Import snippet?"
+msgstr "Импортировать сниппет?"
+
+#: admin/pages/snippet-library.php:62
+msgid "Delete snippet?"
+msgstr "Удалить сниппет?"
+
+#: admin/pages/snippet-library.php:63 admin/metaboxes/base-options.php:91
+msgid "An error occurred during import"
+msgstr "Произошла ошибка во время импортирования"
+
+#: admin/pages/snippet-library.php:64
+msgid "An error occurred during delete"
+msgstr "Произошла ошибка во время удаления"
+
+#: admin/pages/snippet-library.php:98
+msgid "My Snippet Template [Premium]"
+msgstr "Мои шаблоны сниппетов [Premium]"
+
+#: admin/pages/snippet-library.php:99
+msgid "Whenever you or someone from your team save snippets as templates on any website, they go to this section. Our remote server provides snippet synchronization. Thus, snippet templates are always available without extra import/export. The feature is available in the premium version only."
+msgstr "В этом разделе хранятся сохраненные шаблоны ваших сниппетов, которые вы сохранили на одном из ваших сайтов или которые сохранил один из ваших сотрудников. Сниппеты синхронизируются между вашими сайтами через наш удаленный сервер, поэтому шаблоны сниппетов всегда доступны для вас без необходимости  импорта/экспорта. Доступ к этому разделу можно получить только после покупки премиум версии."
+
+#: admin/pages/snippet-library.php:98
+msgid "Snippet Library [Premium]"
+msgstr "Библиотека сниппетов [Premium]"
+
+#: admin/pages/snippet-library.php:99
+msgid "Here you see all of your snippet templates. We’ve gathered the frequently used snippets so you can use them in your projects. Snippet templates help to implement your ideas faster without wasting time on searching and studying PHP code. The feature is available in the premium version only."
+msgstr "В этом разделе хранятся заготовки сниппетов от нашей команды. Мы собрали самые часто используемые сниппеты кода, чтобы вы могли применить их в своих проектах. Заготовки сниппетов позволяют быстрее реализовать ваши идеи, не прибегая к поиску и изучению php кода. Доступ к этому разделу можно получить только после покупки премиум версии."
+
+#: admin/pages/snippet-library.php:126
+msgid "My snippets"
+msgstr "Мои сниппеты"
+
+#: admin/pages/settings.php:33 admin/pages/settings.php:207
+msgid "Settings"
+msgstr "Настройки"
+
+#: admin/pages/settings.php:77
+msgid "Activate by Default"
+msgstr "Активировать по умолч."
+
+#: admin/pages/settings.php:79
+msgid "When creating a new snippet or updating an old one, make the code snippets active by default."
+msgstr "При создании нового сниппета или обновлении старого, активируйте сниппеты кода по умолчанию."
+
+#: admin/pages/settings.php:86
+msgid "Complete Uninstall"
+msgstr "Полное удаление"
+
+#: admin/pages/settings.php:88
+msgid "When the plugin is deleted from the Plugins menu, also delete all snippets and plugin settings."
+msgstr "При удалении плагина из меню \"Плагины\" удаляются все сниппеты и настройки плагина"
+
+#: admin/pages/settings.php:103
+msgid "Code style"
+msgstr "Стиль кода"
+
+#: admin/pages/settings.php:106
+msgid "The optional feature. You can customize the code style in the snippet editor. The \"Default\" style is applied by default."
+msgstr "Не обязательная опция. Вы можете настраивать стили кода в редакторе сниппета. По умолчанию используется стиль \"Default\"."
+
+#: admin/pages/settings.php:113
+msgid "Indent With Tabs"
+msgstr "Отступ через Tab"
+
+#: admin/pages/settings.php:115
+msgid "The optional feature. Whether, when indenting, the first N*tabSize spaces should be replaced by N tabs. The default is false."
+msgstr "Не обязательная опция. Указывает, должен ли первый отступ N*tabSize заменяться на N. По умолчанию - false."
+
+#: admin/pages/settings.php:122
+msgid "Tab Size"
+msgstr "Размер табуляции"
+
+#: admin/pages/settings.php:124
+msgid "The optional feature. Pressing Tab in the code editor increases left indent to N spaces. N is a number pre-defined by you."
+msgstr "Не обязательная опция. Клавиша Tab в редакторе кода увеличивает левый отступ на N-количество пробелов. Вы сами задаете число N."
+
+#: admin/pages/settings.php:131
+msgid "Indent Unit"
+msgstr "Блок отступа"
+
+#: admin/pages/settings.php:133
+msgid "The optional feature. The indent for code lines (units). Example: select a snippet, press Tab. The left indent in the selected code increases to N spaces. N is a number pre-defined by you."
+msgstr "Не обязательная опция. Отступ для строк (блоков) кода. Пример: выберите сниппет, нажмите Tab. Левый отступ выделенного кода увеличится на N-количество пробелов. Вы сами задаете число N."
+
+#: admin/pages/settings.php:140
+msgid "Wrap Lines"
+msgstr "Обернуть строки"
+
+#: admin/pages/settings.php:142
+msgid "The optional feature. If ON, the editor will wrap long lines. Otherwise, it will create a horizontal scroll."
+msgstr "Не обязательная опция. Если активна, то редактор будет разделять длинные строки. В противном случае создается горизонтальная прокрутка."
+
+#: admin/pages/settings.php:149
+msgid "Line Numbers"
+msgstr "Номера строк"
+
+#: admin/pages/settings.php:151
+msgid "The optional feature. If ON, all lines in the editor will be numbered."
+msgstr "Не обязательная опция. Если активна, то все строки в редакторе будут пронумерованы"
+
+#: admin/pages/settings.php:158
+msgid "Auto Close Brackets"
+msgstr "Авто-закрытие скобок"
+
+#: admin/pages/settings.php:160
+msgid "The optional feature. If ON, the editor will automatically close opened quotes or brackets. Sometimes, it speeds up coding."
+msgstr "Не обязательная опция. Если активна, то редактор автоматически закрывает открытые скобки и кавычки. В ряде случаев ускоряет разработку."
+
+#: admin/pages/settings.php:167
+msgid "Highlight Selection Matches"
+msgstr "Выделить совпадения"
+
+#: admin/pages/settings.php:169
+msgid "The optional feature. If ON, it searches for matches for the selected variable/function name. Highlight matches with green. Improves readability."
+msgstr "Не обязательная опция. Если активна, то ищет совпадения по заданному имени функции/переменной. Найденные совпадения подсвечиваются зеленым. Улучшает читабельность."
+
+#: admin/pages/settings.php:213
+msgid "The settings have been updated successfully!"
+msgstr "Настройки успешно обновились!"
+
+#: admin/pages/settings.php:223
+msgid "Save settings"
+msgstr "Сохранить настройки"
+
+#: admin/pages/import.php:29
+msgid "Import/Export"
+msgstr "Импорт/Экспорт"
+
+#: admin/pages/import.php:62
+msgid "An error occurred when processing the import files."
+msgstr "При обработке файла импорта произошла ошибка."
+
+#: admin/pages/import.php:67
+msgid "No snippets were imported."
+msgstr "Сниппеты не импортированы."
+
+#: admin/pages/import.php:69
+#, php-format
+msgid "Successfully imported <strong>%1$d</strong> snippet."
+msgid_plural "Successfully imported <strong>%1$d</strong> snippets."
+msgstr[0] "<strong>%1$d</strong> сниппет успешно импортирован."
+msgstr[1] "<strong>%1$d</strong> сниппета успешно импортированы."
+msgstr[2] "<strong>%1$d</strong> сниппетов успешно импортировано."
+
+#: admin/pages/import.php:78
+#, php-format
+msgid "To import more then one snippet at a time, you need to purchase <a href=\"%s\">Woody snippets PRO</a>"
+msgstr "Для того, чтобы импортировать более одного сниппета за раз, необходимо приобрести <a href=\"%s\">Woody snippets PRO</a>"
+
+#: admin/pages/import.php:84
+msgid "No files selected!"
+msgstr "Не выбраны файлы!"
+
+#: admin/pages/import.php:113
+msgid "Woody ad snippets Import"
+msgstr "Woody импорт сниппетов"
+
+#: admin/pages/import.php:118
+msgid "Import"
+msgstr "Импорт"
+
+#: admin/pages/import.php:126
+msgid "Upload one or more Php Snippets export files and the snippets will be imported."
+msgstr "Загрузите один или несколько экспорт-файлов PHP сниппетов и они будут импортированы."
+
+#: admin/pages/import.php:127
+msgid "Duplicate Snippets"
+msgstr "Дублировать сниппеты"
+
+#: admin/pages/import.php:129
+msgid "What should happen if an existing snippet is found with an identical name to an imported snippet?"
+msgstr "Что делать с импортированным файлом, если сниппет с таким именем уже существует?"
+
+#: admin/pages/import.php:136
+msgid "Ignore any duplicate snippets: import all snippets from the file regardless and leave all existing snippets unchanged."
+msgstr "Игнорировать повторяющиеся сниппеты. Импортировать все сниппеты без замены существующих."
+
+#: admin/pages/import.php:142
+msgid "Replace any existing snippets with a newly imported snippet of the same name."
+msgstr "Заменять существующие сниппеты импортированными файлами с тем же именем"
+
+#: admin/pages/import.php:148
+msgid "Do not import any duplicate snippets; leave all existing snippets unchanged."
+msgstr "Не импортировать повторяющиеся сниппеты и не заменять существующие сниппеты."
+
+#: admin/pages/import.php:153
+msgid "Upload Files"
+msgstr "Загрузить файлы"
+
+#: admin/pages/import.php:155
+msgid "Choose one or more Php Snippets (.json) files to upload, then click \"Upload files and import\"."
+msgstr "Выберите один или несколько PHP сниппетов (.json) для загрузки, а затем нажмите \"Загрузить файлы и импортировать\"."
+
+#: admin/pages/import.php:155
+msgid "Choose one or more Php Snippets (.json/.zip) files to upload, then click \"Upload files and import\"."
+msgstr "Выберите один или несколько PHP сниппетов (.json/.zip) для загрузки, а затем нажмите \"Загрузить файлы и импортировать\"."
+
+#: admin/pages/import.php:160
+msgid "Choose files from your computer:"
+msgstr "Выберите файлы на компьютере:"
+
+#. translators: %s: size in bytes
+#: admin/pages/import.php:163
+#, php-format
+msgid "(Maximum size: %s)"
+msgstr "(Максимальный размер: %s)"
+
+#: admin/pages/import.php:172
+msgid "Upload files and import"
+msgstr "Загрузить файлы и импортировать"
+
+#: admin/pages/import.php:183
+msgid "Mass export [Premium]"
+msgstr "Массовый экспорт [Premium]"
+
+#: admin/pages/import.php:184
+msgid "Mass export allows exporting all snippets in one click. Mass export has advanced settings of snippet segmentation by types, tags, or activity. If you value your time use our premium plugin and export all of your snippets in one click."
+msgstr "Используя массовый экспорт, вы можете экспортировать все сниппеты одним нажатием. Массовый экспорт имеет расширенные настройки сегментации сниппетов по типу, тегам и по активности сниппетов. Если вы цените свое время, используйте наш премиум плагин, чтобы экспортировать ваши сниппеты в один клик."
+
+#: admin/ajax/check-license.php:27
+msgid "Licensing action not passed or this action is prohibited!"
+msgstr "Не передано действие лицензии или действие запрещено!"
+
+#: admin/ajax/check-license.php:39
+msgid "License key is empty or license key too long (license key is 32 characters long)"
+msgstr "Лицензионный ключ является пустым или вы ввели ключ с ошибкой (ключ должен иметь длинну 32 символа)"
+
+#: admin/ajax/check-license.php:42
+msgid "Your license has been successfully activated"
+msgstr "Ваша лицензия успешно активирована"
+
+#: admin/ajax/check-license.php:47
+msgid "The license is deactivated"
+msgstr "Лицензия деактивирована."
+
+#: admin/ajax/check-license.php:51
+msgid "The license has been updated"
+msgstr "Лицензия обновлена."
+
+#: admin/ajax/check-license.php:55
+msgid "Subscription success cancelled"
+msgstr "Подписка успешно отменена"
+
+#: admin/ajax/snippet-library.php:27
+msgid "Loading..."
+msgstr "Загрузка..."
+
+#: admin/ajax/ajax.php:31
+msgid "Guest"
+msgstr "Гость"
+
+#: admin/ajax/ajax.php:101
+msgid "Entire Website"
+msgstr "Весь сайт"
+
+#: admin/ajax/ajax.php:105
+msgid "All Singulars"
+msgstr "Все одиночные"
+
+#: admin/ajax/ajax.php:109
+msgid "All Archives"
+msgstr "Все архивы"
+
+#: admin/ajax/ajax.php:115
+msgid "404 Page"
+msgstr "404 Page"
+
+#: admin/ajax/ajax.php:119
+msgid "Search Page"
+msgstr "Страница поиска"
+
+#: admin/ajax/ajax.php:123
+msgid "Blog / Posts Page"
+msgstr "Блог/ страница записей"
+
+#: admin/ajax/ajax.php:127
+msgid "Front Page"
+msgstr "Главная"
+
+#: admin/ajax/ajax.php:131
+msgid "Date Archive"
+msgstr "Архив дат"
+
+#: admin/ajax/ajax.php:135
+msgid "Author Archive"
+msgstr "Архив авторов"
+
+#: admin/ajax/ajax.php:141
+msgid "All Posts"
+msgstr "Все записи"
+
+#: admin/ajax/ajax.php:145
+msgid "All Posts Archive"
+msgstr "Архив всех записей"
+
+#: admin/ajax/ajax.php:149
+msgid "All Categories Archive"
+msgstr "Архив всех рубрик"
+
+#: admin/ajax/ajax.php:153
+msgid "All Tags Archive"
+msgstr "Архив всех тегов"
+
+#: admin/ajax/ajax.php:159
+msgid "All Pages"
+msgstr "Все страницы"
+
+#: admin/ajax/ajax.php:163
+msgid "All Pages Archive"
+msgstr "Архив всех страниц"
+
+#: admin/metaboxes/revisions.php:46
+msgid "Code Revisions"
+msgstr "Версии кода"
+
+#: admin/metaboxes/revisions.php:68
+msgid "Access denied"
+msgstr "Доступ запрещен"
+
+#: admin/metaboxes/revisions.php:98 admin/metaboxes/revisions.php:136
+msgid "Compare"
+msgstr "Сравнить"
+
+#: admin/metaboxes/revisions.php:99
+msgid "Revision"
+msgstr "Ревизии"
+
+#: admin/metaboxes/revisions.php:100
+msgid "Author"
+msgstr "Автор"
+
+#: admin/metaboxes/revisions.php:102 admin/metaboxes/revisions.php:124
+msgid "Restore"
+msgstr "Восстановить"
+
+#: admin/metaboxes/info.php:51
+msgid "Robin image optimizer: notice"
+msgstr "Robin Image Optimizer: уведомление"
+
+#: admin/metaboxes/info.php:76
+msgid "Install plugin Robin Image Optimizer to speed up your site!"
+msgstr "Установите плагин Robin Image Optimizer и ускорьте свой сайт!"
+
+#: admin/metaboxes/info.php:78
+msgid "Optimize now for free"
+msgstr "Оптимизируйте сейчас. Бесплатно"
+
+#: admin/metaboxes/view-options.php:43
+msgid "Conditional execution logic for the snippet"
+msgstr "Дополнительная логика выполнения сниппета"
+
+#: admin/metaboxes/view-options.php:70
+msgid "User"
+msgstr "Пользователь"
+
+#: admin/metaboxes/view-options.php:74
+msgid "Role"
+msgstr "Роль"
+
+#: admin/metaboxes/view-options.php:80
+msgid "A role of the user who views your website. The role \"guest\" is applied to unregistered users."
+msgstr "Роль пользователя, просматривающего ваш сайт. Для незарегистрированных пользователей это \"гость\"."
+
+#: admin/metaboxes/view-options.php:84
+msgid "Registration Date"
+msgstr "Дата регистрации"
+
+#: admin/metaboxes/view-options.php:86
+msgid "The date when the user who views your website was registered. For unregistered users this date always equals to 1 Jan 1970."
+msgstr "Дата регистрации пользователя, просматривающего сайт. Для незарегистрированных пользователей значение всегда 1 января 1970."
+
+#: admin/metaboxes/view-options.php:100
+msgid "Cookie Name"
+msgstr "Название куков"
+
+#: admin/metaboxes/view-options.php:103
+msgid "Determines whether the user's browser has a cookie with a given name."
+msgstr "Проверяет, есть ли в браузере пользователя куки с этим названием."
+
+#: admin/metaboxes/view-options.php:109
+msgid "Location"
+msgstr "Расположение"
+
+#: admin/metaboxes/view-options.php:113
+msgid "Current Page"
+msgstr "Текущая страница"
+
+#: admin/metaboxes/view-options.php:115
+msgid "An URL of the current page where a user who views your website is located."
+msgstr "URL страницы где находится пользователь просматриваемый ваш сайт."
+
+#: admin/metaboxes/view-options.php:119
+msgid "Current Referrer"
+msgstr "Текущий реферер"
+
+#: admin/metaboxes/view-options.php:121
+msgid "A referrer URL which has brought a user to the current page."
+msgstr "URL-реферер, который привел пользователя на текущую страницу"
+
+#: admin/metaboxes/view-options.php:125
+msgid "Post type"
+msgstr "Тип записи"
+
+#: admin/metaboxes/view-options.php:131
+msgid "A post type of the current page."
+msgstr "Тип записи текущей страницы"
+
+#: admin/metaboxes/view-options.php:135
+msgid "Taxonomy"
+msgstr "Таксономия"
+
+#: admin/metaboxes/view-options.php:141
+msgid "A taxonomy of the current page."
+msgstr "Таксономия выбранной страницы"
+
+#: admin/metaboxes/view-options.php:145
+msgid "Page"
+msgstr "Страница"
+
+#: admin/metaboxes/view-options.php:151
+msgid "List of specific pages."
+msgstr "Список выбранных страниц."
+
+#: admin/metaboxes/view-options.php:157
+msgid "Technology"
+msgstr "Технология"
+
+#: admin/metaboxes/view-options.php:161
+msgid "Addblocker"
+msgstr "Addblocker"
+
+#: admin/metaboxes/view-options.php:163
+msgid "Determines whether the user use Addblocker on website."
+msgstr "Определение использует пользователь Addblocker или нет."
+
+#: admin/metaboxes/view-options.php:167
+msgid "Browser"
+msgstr "Браузер"
+
+#: admin/metaboxes/view-options.php:169
+msgid "Determines whether the user use selected browser."
+msgstr "Определение использует пользователь выбранный браузер или нет."
+
+#: admin/metaboxes/view-options.php:173
+msgid "Use cookie"
+msgstr "Использует куки"
+
+#: admin/metaboxes/view-options.php:175
+msgid "Determines whether the user use cookie on website."
+msgstr "Определение использует пользователь куки или нет."
+
+#: admin/metaboxes/view-options.php:179
+msgid "Use javascript"
+msgstr "Использует JavaScript"
+
+#: admin/metaboxes/view-options.php:181
+msgid "Determines whether the user use javascript on website."
+msgstr "Определение использует пользователь JavaScript или нет."
+
+#: admin/metaboxes/view-options.php:185
+msgid "Operating system"
+msgstr "Операционная система"
+
+#: admin/metaboxes/view-options.php:187
+msgid "Determines whether the user use selected OS."
+msgstr "Определение использует пользователь выбранную операционную систему или нет."
+
+#: admin/metaboxes/view-options.php:191
+msgid "Device type"
+msgstr "Тип устройства"
+
+#: admin/metaboxes/view-options.php:193
+msgid "Determines whether the user use selected device type."
+msgstr "Определение использует пользователь выбранное устройство или нет."
+
+#: admin/metaboxes/view-options.php:199
+msgid "Auditory"
+msgstr "Аудитория"
+
+#: admin/metaboxes/view-options.php:203
+msgid "User country"
+msgstr "Страна пользователя"
+
+#: admin/metaboxes/view-options.php:205
+msgid "Geolocation"
+msgstr "Геолокация"
+
+#: admin/metaboxes/view-options.php:209
+msgid "Viewing depth"
+msgstr "Глубина просмотра"
+
+#: admin/metaboxes/view-options.php:211
+msgid "The number of pages viewed by the user per session"
+msgstr "Количество просмотров страниц на сессию пользователя"
+
+#: admin/metaboxes/view-options.php:215
+msgid "Attendance by time of day"
+msgstr "Посещения в течении дня"
+
+#: admin/metaboxes/view-options.php:217
+msgid "The time interval during which the user entered"
+msgstr "Временной интервал в которой зашел пользователь"
+
+#: admin/metaboxes/view-options.php:221
+msgid "Total number of visits"
+msgstr "Общее число визитов"
+
+#: admin/metaboxes/view-options.php:223
+msgid "The total number of sessions opened by the user"
+msgstr "Общее количество открытых сессий пользователем "
+
+#: admin/metaboxes/view-options.php:240
+msgid "[Hide For Members]: Show the locker only for guests"
+msgstr "[Скрыть для пользователей]: Показывать блокировку только для гостей"
+
+#: admin/metaboxes/view-options.php:255
+msgid "[Hide On Mobile]: Hide the locker on mobile devices"
+msgstr "[Скрыть на мобильном]; Скрыть блокировку на мобильных устройствах"
+
+#: admin/metaboxes/view-options.php:270
+msgid "[Delayed Lock]: Show the locker only in posts older than 5 days"
+msgstr "[Отложенная блокировка]: Показывать блокировку только для записей, старше 5 дней"
+
+#: admin/metaboxes/view-options.php:300
+msgid "No filters specified. <a href=\"#\" class=\"winp-add-filter\">Click here</a> to add one."
+msgstr "Фильтры не выбраны. Чтобы добавить фильтр, <a href=\"#\" class=\"winp-add-filter\">нажмите здесь</a>."
+
+#: admin/metaboxes/view-options.php:309
+msgid "Show IF"
+msgstr "Показать ЕСЛИ"
+
+#: admin/metaboxes/view-options.php:312
+msgid "Display On IF"
+msgstr "Показывать, ЕСЛИ"
+
+#: admin/metaboxes/view-options.php:313
+msgid "Do Not Display IF"
+msgstr "Не показывать, ЕСЛИ"
+
+#: admin/metaboxes/view-options.php:315 admin/metaboxes/view-options.php:342
+msgid "or"
+msgstr "или"
+
+#: admin/metaboxes/view-options.php:333
+msgid "No conditions specified. <a href=\"#\" class=\"winp-link-add\">Click here</a> to add one."
+msgstr "Условия не выбраны. Чтобы добавить условия, <a href=\"#\" class=\"winp-link-add\">нажмите здесь</a>."
+
+#: admin/metaboxes/view-options.php:339
+msgid "and"
+msgstr "и"
+
+#: admin/metaboxes/view-options.php:363
+msgid "Equals"
+msgstr "Равно"
+
+#: admin/metaboxes/view-options.php:364
+msgid "Doesn't Equal"
+msgstr "Не равно"
+
+#: admin/metaboxes/view-options.php:365
+msgid "Greater Than"
+msgstr "Больше"
+
+#: admin/metaboxes/view-options.php:366
+msgid "Less Than"
+msgstr "Меньше"
+
+#: admin/metaboxes/view-options.php:367
+msgid "Older Than"
+msgstr "Старше"
+
+#: admin/metaboxes/view-options.php:368
+msgid "Younger Than"
+msgstr "Младше"
+
+#: admin/metaboxes/view-options.php:369
+msgid "Contains"
+msgstr "Содержит"
+
+#: admin/metaboxes/view-options.php:370
+msgid "Doesn't Сontain"
+msgstr "Не содержит"
+
+#: admin/metaboxes/view-options.php:371
+msgid "Between"
+msgstr "Между"
+
+#: admin/metaboxes/view-options.php:379
+msgid "OR"
+msgstr "ИЛИ"
+
+#: admin/metaboxes/view-options.php:380
+msgid "AND"
+msgstr "И"
+
+#: admin/metaboxes/view-options.php:388
+msgid "from"
+msgstr "с"
+
+#: admin/metaboxes/view-options.php:394
+msgid "to"
+msgstr "по"
+
+#: admin/metaboxes/view-options.php:402
+msgid "older than"
+msgstr "старше"
+
+#: admin/metaboxes/view-options.php:405 admin/metaboxes/view-options.php:416
+#: admin/metaboxes/view-options.php:436
+msgid "Second(s)"
+msgstr "Секунда(ы)"
+
+#: admin/metaboxes/view-options.php:406 admin/metaboxes/view-options.php:417
+#: admin/metaboxes/view-options.php:437
+msgid "Minutes(s)"
+msgstr "Минута(ы)"
+
+#: admin/metaboxes/view-options.php:407 admin/metaboxes/view-options.php:418
+#: admin/metaboxes/view-options.php:438
+msgid "Hours(s)"
+msgstr "Час(ов)"
+
+#: admin/metaboxes/view-options.php:408 admin/metaboxes/view-options.php:419
+#: admin/metaboxes/view-options.php:439
+msgid "Day(s)"
+msgstr "День/дней"
+
+#: admin/metaboxes/view-options.php:409 admin/metaboxes/view-options.php:420
+#: admin/metaboxes/view-options.php:440
+msgid "Week(s)"
+msgstr "Неделя(и)"
+
+#: admin/metaboxes/view-options.php:410 admin/metaboxes/view-options.php:421
+#: admin/metaboxes/view-options.php:441
+msgid "Month(s)"
+msgstr "Месяц(ев)"
+
+#: admin/metaboxes/view-options.php:411 admin/metaboxes/view-options.php:422
+#: admin/metaboxes/view-options.php:442
+msgid "Year(s)"
+msgstr "Год/Лет"
+
+#: admin/metaboxes/view-options.php:413
+msgid ", younger than"
+msgstr ", младше"
+
+#: admin/metaboxes/view-options.php:449
+msgid "relative"
+msgstr "относительно"
+
+#: admin/metaboxes/view-options.php:451
+msgid "absolute"
+msgstr "абсолютно"
+
+#: admin/metaboxes/base-options.php:42
+msgid "Base options"
+msgstr "Базовые опции"
+
+#: admin/metaboxes/base-options.php:89
+msgid "Import snippet"
+msgstr "Импортировать снипет"
+
+#: admin/metaboxes/base-options.php:90 admin/metaboxes/base-options.php:372
+msgid "Export snippet"
+msgstr "Экспортировать сниппет"
+
+#: admin/metaboxes/base-options.php:92
+msgid "An error occurred during export"
+msgstr "Произошла ошибка во время экспорта"
+
+#: admin/metaboxes/base-options.php:93 admin/metaboxes/base-options.php:141
+msgid "Save"
+msgstr "Сохранить"
+
+#: admin/metaboxes/base-options.php:94
+msgid "Snippet template succefully saved!"
+msgstr "Шаблон сниппета успешно сохранен!"
+
+#: admin/metaboxes/base-options.php:135
+msgid "Save a Snippet as a Template"
+msgstr "Сохранить сниппет, как шаблон"
+
+#: admin/metaboxes/base-options.php:136
+msgid "A copy of your snippet and its settings are stored on our remote server. You can access it from any website where you’ve activated the plugin’s premium version. If you have our plugin on multiple websites or work in a team, it’s quite handy to use templates. The feature is available in the premium version only."
+msgstr "Копия вашего сниппета и его настройки будут сохранены на нашем удаленном сервере, вы сможете получить к нему доступ с любого сайта, где у вас активирована премиум версия плагина. Использования шаблонов очень удобно, если вы используете наш плагин на большом количестве сайтов или работаете в команде. Возможность сохранения шаблонов сниппетов доступна только в премиум версии."
+
+#: admin/metaboxes/base-options.php:139
+msgid "Enter template name"
+msgstr "Введите название шаблона"
+
+#: admin/metaboxes/base-options.php:372
+msgid "Save as template"
+msgstr "Сохранить в облако"
+
+#: admin/metaboxes/base-options.php:402 admin/metaboxes/base-options.php:424
+msgid "Where there is a shortcode"
+msgstr "Везде, где есть шорткод"
+
+#: admin/metaboxes/base-options.php:415
+msgid "If you want to place some content into your snippet from the shortcode just wrap it inside [wbcr_text_snippet id=\"xxx\"]content[/wbcr_text_snippet]. To use this content inside the snippet use {{SNIPPET_CONTENT}} variable."
+msgstr "Если вы хотите разместить содержимое в сниппете из шорткода, то оберните его в теги [wbcr_text_snippet id=\"xxx\"]содержимое[/wbcr_text_snippet].. Для работы с этим содержимым внутри сниппета пользуйтесь переменной {{SNIPPET_CONTENT}}"
+
+#: admin/metaboxes/base-options.php:418
+#, php-format
+msgid "If you want to place some content into your snippet from the shortcode just wrap it inside [wbcr%s_snippet id=\"xxx\"]content[/wbcr%s_snippet]. To use this content inside the snippet use $content variable."
+msgstr "Если вы хотите вставить какой-то контент внутри вашего сниппета из шорткода, просто оберните его в [wbcr%s_snippet id=\"xxx\"]контент[/wbcr%s_snippet]. Для использования текущего контента внутри сниппета используйте $content переменную."
+
+#: admin/metaboxes/base-options.php:444
+msgid "Where to execute the code?"
+msgstr "Где можно выполнять код?"
+
+#: admin/metaboxes/base-options.php:445
+msgid "\" option, after activating the widget, the php code will be launched on all pages of your site. Another option works only where you have set a shortcode snippet (widgets, post)."
+msgstr "\" опция, после активации виджета,  PHP код будет запущен на всех страницах вашего сайта. Другая опция работает только когда вы установили сниппет (виджеты, записи)."
+
+#: admin/metaboxes/base-options.php:454
+msgid "If you select the \"%s\" option, after activating the widget, the php code will be launched on all pages of your site. Another option works only where you have set a shortcode snippet (widgets, post)."
+msgstr "Если вы выберите опцию \"%s\", то после активации виджета php код будет запущен на всех страницах вашего сайта. Другая опция позволяет запускать сниппет только там, где указан шорткод сниппета (widgets, post)."
+
+#: admin/metaboxes/base-options.php:454
+msgid "Custom shortcode name"
+msgstr "Собственное название"
+
+#: admin/metaboxes/base-options.php:455
+msgid "By default, all snippet shortcodes look like this: [wbcr_snippet id=”121”]. Such shortcodes are hard to remember. In addition, when you move a snippet to another website its ID can be changed. So the best solution for the snippets use regularly is to define a custom shortcode name. The custom shortcode may look like this: [soccer_match_date]"
+msgstr "По умолчанию все шорткоды сниппетов выглядят вот так: [wbcr_snippet id=”121”]. Такие шорткоды сложно запомнить, а при переносе сниппетов на другой сайт, ID сниппетов может измениться. Лучшее решение для часто используемых сниппетов, это задать собственное имя шорткода. Произвольный шорткод может выглядеть так: [soccer_match_date]"
+
+#: admin/metaboxes/base-options.php:471
+msgid "Head"
+msgstr "head"
+
+#: admin/metaboxes/base-options.php:472
+msgid "Snippet will be placed in the source code before </head>."
+msgstr "Сниппет будет размещен в исходном коде перед </head>."
+
+#: admin/metaboxes/base-options.php:477
+msgid "Snippet will be placed in the source code before </body>."
+msgstr "Сниппет будет размещен в исходном коде перед </body>."
+
+#: admin/metaboxes/base-options.php:488
+msgid "Snippet will be placed before the title of the post/page."
+msgstr "Сниппет будет размещен до заголовка записи/страницы."
+
+#: admin/metaboxes/base-options.php:493
+msgid "Snippet will be placed before the content of the post/page."
+msgstr "Сниппет будет размещен до содержимого записи/страницы."
+
+#: admin/metaboxes/base-options.php:498
+msgid "Snippet will be placed before the paragraph, which number you can specify in the Location number field."
+msgstr "Сниппет будет размещен до абзаца с номером, указанным в поле \"Число при размещении\"."
+
+#: admin/metaboxes/base-options.php:503
+msgid "Snippet will be placed after the paragraph, which number you can specify in the Location number field."
+msgstr "Сниппет будет размещен после абзаца с номером, указанным в поле \"Число при размещении\"."
+
+#: admin/metaboxes/base-options.php:508
+msgid "Snippet will be placed after the content of the post/page."
+msgstr "Сниппет будет размещен после содержимого записи/страницы."
+
+#: admin/metaboxes/base-options.php:513
+msgid "Snippet will be placed in the very end of the post/page."
+msgstr "Сниппет будет размещен в конце записи/страницы."
+
+#: admin/metaboxes/base-options.php:524
+msgid "Snippet will be placed before the excerpt of the post/page."
+msgstr "Сниппет будет размещен до превью записи/страницы."
+
+#: admin/metaboxes/base-options.php:529
+msgid "Snippet will be placed after the excerpt of the post/page."
+msgstr "Сниппет будет размещен после превью записи/страницы."
+
+#: admin/metaboxes/base-options.php:534
+msgid "Snippet will be placed between each post."
+msgstr "Сниппет будет размещен между записями."
+
+#: admin/metaboxes/base-options.php:539
+msgid "Snippet will be placed before the post, which number you can specify in the Location number field."
+msgstr "Сниппет будет размещен до записи с номером, указанным в поле \"Число при размещении\""
+
+#: admin/metaboxes/base-options.php:544
+msgid "Snippet will be placed after the post, which number you can specify in the Location number field."
+msgstr "Сниппет будет размещен после записи с номером, указанным в поле \"Число при размещении\"."
+
+#: admin/metaboxes/base-options.php:559
+msgid "Insertion location"
+msgstr "Место добавления"
+
+#: admin/metaboxes/base-options.php:560
+msgid "Select the location for you snippet."
+msgstr "Укажите размещение для сниппета"
+
+#: admin/metaboxes/base-options.php:608
+msgid "Location number"
+msgstr "Число при размещении"
+
+#: admin/metaboxes/base-options.php:609
+msgid "Paragraph / Post number"
+msgstr "Кол-во записей / абзацев"
+
+#: admin/metaboxes/base-options.php:620
+msgid "External File"
+msgstr "Внешний файл"
+
+#: admin/metaboxes/base-options.php:621
+msgid "Inline Code"
+msgstr "Встроенный код"
+
+#: admin/metaboxes/base-options.php:623
+msgid "Linking type"
+msgstr "Тип перелинковки"
+
+#: admin/metaboxes/base-options.php:624
+msgid "Select how the snippet will be linked to the page."
+msgstr "Выберите как сниппеты будут отмечены со страницей."
+
+#: admin/metaboxes/base-options.php:633
+msgid "You can write a short note so that you can always remember why this code or your colleague was able to apply this code in his works."
+msgstr "Вы можете добавить короткое примечание. Так вы и ваши коллеги всегда будете знать, что именно делает этот код, и как применять его в работе."
+
+#: admin/metaboxes/base-options.php:646
+msgid "Available attributes"
+msgstr "Доступные атрибуты"
+
+#: admin/metaboxes/base-options.php:647
+msgid "Available attributes for shortcode via comma. Only numbers, letters and underscore characters are allowed. Attribute id is always available. With this option you can set additional attributes for the shortcode. Example: start_date attribute to [%s id='xxx' start_date='2018/01/15'] shortcode. Now we can get attribute value in the snippet with the $start_date variable. It's convenient if you want to print out different results depending on this attributes."
+msgstr "Доступные атрибуты шорткода, разделённые запятой. Разрешено использовать только цифры, буквы и символ подчёркивания. Атрибут id доступен всегда. С этой опцией вы можете указать дополнительные атрибуты шорткода. Пример: атрибут start_date для шорткода [%s id='xxx' start_date='2018/01/15']. Теперь в cниппете вы можете использовать значение переменной $start_date. Это удобно, если вы хотите выводить разные результаты в зависимости от значения этих атрибутов."
+
+#: includes/shortcodes/shortcode-text.php:26
+msgid "]: Text snippets error (not passed the snippet ID)"
+msgstr "]: Ошибка текстового снипета (ID сниппета не было передано)"
+
+#: includes/shortcodes/shortcode-js.php:26
+#: includes/shortcodes/shortcode-php.php:26
+#: includes/shortcodes/shortcode-html.php:26
+#: includes/shortcodes/shortcode-css.php:26
+#: includes/shortcodes/shortcode-universal.php:26
+msgid "]: PHP snippets error (not passed the snippet ID)"
+msgstr "]: Ошибка PHP снипета (ID сниппета не было передано)"
+
+#. Plugin Name of the plugin
+msgid "Woody ad snippets (PHP snippets | Insert PHP)"
+msgstr "Woody ad snippets (PHP snippets | Insert PHP)"
+
+#. Description of the plugin
+msgid "Executes PHP code, uses conditional logic to insert ads, text, media content and external service’s code. Ensures no content duplication."
+msgstr "Выполняет РНР код, использует условную логику для добавления рекламы, текста, медиа-содержимого и кода внешних сервисов. Гарантирует отсутствие повторяющегося содержимого."
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "http://woody-ad-snippets.webcraftic.com/"
+msgstr "http://woody-ad-snippets.webcraftic.com/"
+
+#. Author of the plugin
+msgid "Will Bontrager Software, LLC <will@willmaster.com>, Webcraftic <wordpress.webraftic@gmail.com>"
+msgstr "Will Bontrager Software, LLC <will@willmaster.com>, Webcraftic <wordpress.webraftic@gmail.com>"
+
+#: admin/pages/revisions.php:46
+msgid "Not enough revisions to compare"
+msgstr "Для сравнения недостаточно версий"
+
+#: admin/pages/revisions.php:47
+msgid "Compare Revisions of "
+msgstr "Сравнить версии для "
+
+#: admin/pages/revisions.php:48
+msgid "From:"
+msgstr "От:"
+
+#: admin/pages/revisions.php:49
+msgid "To:"
+msgstr "До:"
+
+#: admin/pages/revisions.php:50
+msgid "Revision by"
+msgstr "Версия"
+
+#: admin/pages/revisions.php:52
+msgid "Content"
+msgstr "Содержимое"
+
+#: admin/pages/revisions.php:53
+msgid "Toggle panel: Publish"
+msgstr "Переключить: Опубликовать"
+
+#: admin/metaboxes/revisions.php:54
+msgid "No revisions"
+msgstr "Нет версий"
+
+#: admin/metaboxes/revisions.php:55
+msgid "Return to editor"
+msgstr "Вернуться в редактор"
+
+#: admin/pages/import.php:20
+msgid "Select all"
+msgstr "Выбрать все"
+
+#: admin/pages/import.php:21
+msgid "Active"
+msgstr "Активные"
+
+#: admin/pages/import.php:22
+msgid "Not active"
+msgstr "Неактивные"
+
+#: admin/pages/import.php:23
+msgid "All"
+msgstr "Все"
+
+#: admin/pages/import.php:24
+msgid "Status for snippets"
+msgstr "Статус для сниппетов"
+
+#: admin/pages/import.php:23
+msgid "Snippet types"
+msgstr "Типы сниппетов"
+
+#: admin/pages/import.php:24
+msgid "Types of snippets"
+msgstr "Типы сниппетов"
+
+#: admin/pages/import.php:25
+msgid "Snippet tags"
+msgstr "Теги сниппетов"
+
+#: admin/pages/import.php:26
+msgid "No snippets were exported"
+msgstr "Не было экспортировано ни одного сниппета"
+
+#: admin/pages/import.php:27
+msgid "Export all snippets"
+msgstr "Экспорт всех сниппетов"
+
+#: includes/shortcodes/shortcode-custom.php:26
+msgid "Custom shortcode: PHP snippets error (not found the snippet ID)"
+msgstr "Custom shortcode: Ошибка PHP снипета (ID сниппета не было найдено)"
+
+#: admin/includes/class.actions.snippet.php:26
+msgid "Clone"
+msgstr "Клонировать"
+
+#: includes/classes/class.snippet.php:26
+msgid "IP geolocation database"
+msgstr "IP базы данных"
+
+#: includes/classes/class.snippet.php:27
+msgid "Select IP geolocation database"
+msgstr "Выберите IP базы данных"
+
+#: includes/classes/class.snippet.php:28
+msgid "Automatic update"
+msgstr "Автоматическое обновление"
+
+#: includes/classes/class.snippet.php:29
+msgid "Disabled"
+msgstr "Отключено"
+
+#: includes/classes/class.snippet.php:30
+msgid "Enabled"
+msgstr "Включено"
+
+#: includes/classes/class.snippet.php:31
+msgid "Select \"Enabled\" for automatic database update once per month."
+msgstr "Выберите \"Включено\" для автоматического ежемесячного обновления базы данных"
+
+#: includes/classes/class.snippet.php:32
+msgid "Database"
+msgstr "База данных"
+
+#: includes/classes/class.snippet.php:33
+msgid "Specify the path to the location of the database file. (Default: %s)"
+msgstr "Укажите путь к файлу базы данных. (По умолчанию: %s)"
+
+#: includes/classes/class.snippet.php:34
+msgid "exists"
+msgstr "существует"
+
+#: includes/classes/class.snippet.php:35
+msgid "missing"
+msgstr "отсутствует"
+
+#: admin/assets/gutenberg/src/index.js:103
+msgid "Select snippet shortcode:"
+msgstr "Выберите шорткод сниппета:"
+
+#: admin/assets/gutenberg/src/index.js:121
+msgid "Attribute \""
+msgstr "Атрибут \""

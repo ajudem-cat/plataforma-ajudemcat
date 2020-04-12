@@ -1,0 +1,56 @@
+.wrap {
+  margin-top: 0;
+}
+.wbcr-inp-items {
+  padding-top: 10px;
+  padding-bottom: 20px;
+  overflow: hidden;
+  background-color: #f1f1f1;
+}
+.wbcr-inp-items .wbcr-inp-buttons .button {
+  background-color: #fff;
+}
+.wbcr-inp-items .wbcr-inp-item {
+  width: 250px;
+  min-width: 0;
+  height: 250px;
+  padding: 20px;
+  margin: 0 15px 15px 0;
+  vertical-align: top;
+  float: left;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  line-height: 150%;
+  position: relative;
+}
+.wbcr-inp-items .wbcr-inp-item .wbcr-inp-title {
+  font-size: 16px;
+  margin: 0 0 15px 0;
+}
+.wbcr-inp-items .wbcr-inp-item .wbcr-inp-buttons {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 18px;
+  background-color: #f9f9f9;
+  height: 66px;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+.wbcr-inp-items .wbcr-inp-item .wbcr-inp-buttons .dashicons {
+  position: relative;
+  font-size: 20px;
+}
+.wbcr-inp-items .wbcr-inp-item .wbcr-inp-buttons .dashicons + span {
+  margin-left: 5px;
+}
+.wbcr-inp-items .wbcr-inp-item .wbcr-inp-buttons .wbcr-inp-hint-button {
+  float: right;
+}
+.wbcr-inp-items .wbcr-inp-item .wbcr-inp-buttons .wbcr-inp-hint-button .dashicons {
+  top: 4px;
+}
+.wbcr-inp-items .wbcr-inp-item .wbcr-inp-buttons .wbcr-inp-create .dashicons {
+  top: 5px;
+}

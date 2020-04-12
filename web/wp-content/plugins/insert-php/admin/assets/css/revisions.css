@@ -1,0 +1,108 @@
+/*
+prefixes:
+  .winp-rev-  for revisions page
+  .winp-rbox- for revisions metabox (it used on pages revisions and edit)
+*/
+/* REVISIONS PAGE*/
+.winp-rev-header {
+  margin-bottom: 20px;
+}
+.winp-rev-title {
+  font-size: 18px;
+  min-width: 4rem;
+}
+.winp-rev-changed {
+  border: 1px solid #ee8;
+  background: #ffffe0;
+}
+.winp-rev-caption {
+  padding: 11px 11px;
+  margin: 0;
+  font-size: 16px;
+  font-weight: normal;
+}
+.winp-rev-compare-col,
+.winp-rev-compare-middle-col,
+.winp-rev-compare-middle-col {
+  display: block;
+  float: left;
+}
+.winp-rev-compare-col {
+  width: 47%;
+}
+.winp-rev-compare-middle-col {
+  width: 6%;
+  min-height: 1px;
+}
+.winp-rev-diff-header .revisions-controls {
+  height: auto;
+  padding-top: 0;
+}
+.winp-diff-section {
+  margin-bottom: 20px;
+}
+/*
+ swap diff highlights for left and right panel
+ 'cause left panel only displayed
+ */
+.CodeMirror-merge-l-chunk {
+  background: #ffffe0;
+}
+.CodeMirror-merge-l-chunk-start {
+  border-top: 1px solid #ee8;
+}
+.CodeMirror-merge-l-chunk-end {
+  border-bottom: 1px solid #ee8;
+}
+.CodeMirror-merge-l-connect {
+  fill: #ffffe0;
+  stroke: #ee8;
+  stroke-width: 1px;
+}
+.CodeMirror-merge-r-chunk {
+  background: #eef;
+}
+.CodeMirror-merge-r-chunk-start {
+  border-top: 1px solid #88e;
+}
+.CodeMirror-merge-r-chunk-end {
+  border-bottom: 1px solid #88e;
+}
+.CodeMirror-merge-r-connect {
+  fill: #eef;
+  stroke: #88e;
+  stroke-width: 1px;
+}
+/* METABOX */
+.snippet-revisions th {
+  font-weight: 600;
+}
+.winp-rbox-no-items {
+  text-align: center;
+}
+#WINP_RevisionsMetaBox {
+  display: block;
+}
+#WINP_RevisionsMetaBox button,
+#WINP_RevisionsMetaBox h2,
+#WINP_RevisionsMetaBox div.inside table {
+  opacity: 0.4;
+}
+#WINP_RevisionsMetaBox p.winp-purchase-button {
+  position: absolute;
+  z-index: 1;
+  left: 40%;
+  left: calc(100%/2 - 120px);
+  top: 20%;
+}
+#WINP_RevisionsMetaBox .revisions-actionbar {
+  padding-top: 10px;
+}
+#WINP_RevisionsMetaBox.hide-if-js {
+  display: none;
+}
+/* EDITOR PAGE */
+/* hide default revision control in metabox "save"*/
+.post-type-wbcr-snippets .misc-pub-revisions {
+  display: none;
+}

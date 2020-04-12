@@ -1,0 +1,225 @@
+#WINP_ViewOptionsMetaBox {
+  display: block;
+}
+#WINP_ViewOptionsMetaBox .winp-template {
+  display: none;
+}
+.winp-advanded-options input {
+  float: none;
+  position: relative;
+  top: 0;
+  padding: 4px;
+}
+.winp-advanded-options .winp-head {
+  overflow: auto;
+  background-color: #fff;
+  border-bottom: 1px solid #ddd;
+  border-left: 1px solid #ddd;
+  padding: 10px 15px;
+}
+.winp-advanded-options .winp-head .winp-left {
+  float: left;
+}
+.winp-advanded-options .winp-head .winp-right {
+  float: right;
+}
+.winp-advanded-options .winp-head .winp-left > *,
+.winp-advanded-options .winp-head .winp-right > * {
+  display: inline-block;
+  vertical-align: middle;
+}
+.winp-advanded-options .winp-head .winp-left > span,
+.winp-advanded-options .winp-head .winp-right > span {
+  margin: 0 5px;
+}
+.winp-advanded-options .winp-editor-wrap .winp-filters {
+  padding-left: 20px;
+  border-left: 1px solid #ddd;
+}
+.winp-advanded-options .winp-filters .winp-point {
+  background-color: #fff;
+  border: 1px solid #0073aa;
+  border-radius: 100%;
+  width: 11px;
+  height: 11px;
+  display: block;
+  position: absolute;
+  margin-left: -26px;
+  margin-top: 19px;
+}
+.winp-advanded-options .winp-filters .winp-point:after {
+  position: absolute;
+  content: " ";
+  display: block;
+  width: 15px;
+  border-top: 1px solid #ddd;
+  margin-left: 10px;
+  margin-top: 4px;
+}
+.winp-advanded-options .winp-filter + .winp-filter {
+  margin-top: 20px;
+}
+.winp-advanded-options .winp-box {
+  padding: 25px 15px 15px 15px;
+  border-left: 1px solid #ddd;
+  background-color: #f9f9f9;
+}
+.winp-advanded-options .winp-when-empty {
+  display: none;
+}
+.winp-advanded-options .winp-empty .winp-when-empty {
+  display: block;
+}
+.winp-advanded-options .winp-empty .winp-conditions {
+  display: none;
+}
+.winp-advanded-options .winp-integer {
+  width: 60px;
+}
+.winp-advanded-options .winp-text {
+  width: 300px;
+}
+/* Conditions */
+.winp-condition {
+  position: relative;
+}
+.winp-condition .btn-group .btn {
+  height: 28px;
+}
+.winp-condition .winp-hint,
+.winp-condition .winp-hint-content {
+  display: none;
+}
+.winp-condition .winp-hint {
+  position: relative;
+  display: inline-block;
+  padding: 0 6px 0 3px;
+}
+.winp-condition .winp-hint-icon {
+  background: url('../img/help.png') no-repeat 0 0 transparent;
+  position: relative;
+  height: 14px;
+  width: 13px;
+  display: inline-block;
+  cursor: help;
+  vertical-align: middle;
+  top: -1px;
+  opacity: 0.55;
+}
+.winp-condition .winp-hint:hover .winp-hint-content {
+  display: block;
+  position: absolute;
+  width: 280px;
+  background-color: rgba(0, 0, 0, 0.8);
+  white-space: normal;
+  padding: 10px 12px 12px 12px;
+  font-weight: normal;
+  line-height: 150%;
+  border-radius: 4px;
+  color: #fff;
+  font-size: 13px;
+  z-index: 999;
+}
+.winp-condition .winp-hint .winp-hint-content,
+.winp-condition .winp-hint .winp-hint-content a {
+  color: #fff;
+}
+.winp-condition .winp-or {
+  display: none;
+  color: rgba(0, 0, 0, 0.4);
+  font-weight: bold;
+  padding: 1px 0 3px 0;
+  font-size: 80%;
+  text-transform: uppercase;
+}
+.winp-condition + .winp-condition .winp-or {
+  display: block;
+}
+.winp-condition .winp-controls {
+  position: absolute;
+  right: 0;
+}
+.winp-condition .btn-group {
+  border: 0;
+}
+.winp-condition > span {
+  display: inline-block;
+  vertical-align: top;
+}
+/* date control */
+.winp-date-control {
+  display: inline-block;
+  position: relative;
+}
+.winp-date-control input[type='text'],
+.winp-date-control select {
+  vertical-align: top;
+}
+.winp-date-control .winp-label {
+  display: inline-block;
+  vertical-align: top;
+  position: relative;
+  top: 4px;
+  padding: 0 4px;
+}
+.winp-date-control .winp-switcher {
+  padding: 4px 0;
+}
+.winp-date-control .winp-switcher * {
+  display: inline-block;
+  vertical-align: bottom;
+}
+.winp-date-control .winp-switcher label {
+  margin: 0 5px 0 0;
+  font-weight: normal;
+}
+.winp-date-control .winp-absolute-date input[type="text"] {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  background-color: #fff;
+  padding-right: 20px;
+  width: 140px;
+}
+.winp-date-control .winp-absolute-date .fa-calendar {
+  position: absolute;
+  right: 7px;
+  top: 8px;
+  border-left: 1px solid rgba(0, 0, 0, 0.2);
+  padding-left: 6px;
+}
+.winp-date-control .winp-relative-date input[type="text"] {
+  width: 40px;
+  text-align: center;
+}
+.winp-date-control.winp-between .winp-solo-date {
+  display: none;
+}
+.winp-date-control.winp-solo .winp-between-date {
+  display: none;
+}
+.winp-date-control.winp-relative .winp-absolute-date {
+  display: none;
+}
+.winp-date-control.winp-absolute .winp-relative-date {
+  display: none;
+}
+.winp-scope .winp-and {
+  display: none;
+  color: rgba(0, 0, 0, 0.7);
+  font-weight: bold;
+  border-top: 1px solid #ddd;
+  margin: 18px 0;
+  position: relative;
+}
+.winp-scope .winp-and span {
+  position: absolute;
+  top: -10px;
+  background-color: #f9f9f9;
+  padding-right: 7px;
+  text-transform: uppercase;
+}
+.winp-scope + .winp-scope .winp-and {
+  display: block;
+}
+/*# sourceMappingURL=view-opt.css.map */

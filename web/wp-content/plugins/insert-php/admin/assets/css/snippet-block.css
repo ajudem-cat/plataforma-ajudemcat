@@ -1,0 +1,51 @@
+#winp-snippet-gb-content-tags {
+  margin-top: 20px;
+  padding: 20px;
+}
+div[data-type="wp-plugin-insert-php/winp-snippet"] {
+  position: relative;
+  background: #fbfbfb;
+  border: 2px dashed #d6d6d6;
+}
+div[data-type="wp-plugin-insert-php/winp-snippet"]:before {
+  display: block;
+  position: absolute;
+  top: -15px;
+  left: 90%;
+  width: 30px;
+  height: 30px;
+  content: '';
+  background: url(../img/snippet-cut.png) center no-repeat;
+}
+.winp-snippet-gb-container {
+  font-size: 13px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+}
+.winp-snippet-gb-container .editor-inserter {
+  display: block;
+  padding: 15px;
+}
+.winp-snippet-gb-container .block-list-appender__toggle {
+  outline: 1px dashed #d2d2d2;
+  background: #fbfbfb;
+}
+.winp-snippet-gb-container label {
+  display: block;
+  font-weight: 600;
+  font-size: 14px;
+  flex-shrink: 0;
+  margin-bottom: 5px;
+}
+.winp-snippet-gb-container select {
+  display: block;
+  margin-bottom: 15px;
+  width: 100%;
+  color: inherit;
+  line-height: inherit;
+  font-size: 15px;
+  border-radius: 0;
+}
+.winp-snippet-gb-container .editor-block-list__insertion-point-inserter {
+  height: 32px;
+}
+/*# sourceMappingURL=snippet-block.css.map */

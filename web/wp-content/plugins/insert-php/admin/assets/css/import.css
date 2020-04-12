@@ -1,0 +1,46 @@
+.winp-import-snippets p.winp-icon {
+  padding: 10px 0 50px 0;
+  margin-right: 30px;
+}
+.winp-import-snippets p.winp-icon span {
+  font-size: 5em;
+  color: #c5ccd2;
+}
+.winp-import-snippets p.winp-header-modal {
+  font-size: 28px;
+  color: #717880;
+}
+.winp-import-snippets p.winp-title-modal {
+  font-size: 14px;
+  color: #b3b7ba;
+  padding-bottom: 20px;
+}
+.winp-import-snippets .winp-more-padding {
+  padding-top: 100px;
+}
+#winp-library-buy-button {
+  background-color: #fdc018;
+  border-color: #e7b017;
+  color: white;
+  text-transform: uppercase;
+  border-radius: 1px;
+  padding: 10px 30px;
+}
+#winp-library-buy-button span {
+  bottom: 13px;
+}
+#winp-library-buy-button span:hover {
+  color: #f3f4ef;
+}
+.wrap div.nav-tab-wrapper {
+  border-bottom: 1px solid #ccc;
+  margin: 0;
+  padding-top: 9px;
+  padding-bottom: 0;
+  line-height: inherit;
+  font-size: 30px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 500;
+  color: inherit;
+}
+/*# sourceMappingURL=import.css.map */

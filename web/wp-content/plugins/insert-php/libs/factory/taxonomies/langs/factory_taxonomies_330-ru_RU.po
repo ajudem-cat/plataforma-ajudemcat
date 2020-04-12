@@ -1,0 +1,99 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: factory_forms\n"
+"POT-Creation-Date: 2014-05-11 00:17+0400\n"
+"PO-Revision-Date: 2014-05-11 00:18+0400\n"
+"Last-Translator: alex.kovalevv@gmail.com <alex.kovalevv@gmail.com>\n"
+"Language-Team: Alex Kovalev <alex.kovalevv@gmail.com>\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-Basepath: E:\\cloud\\Dropbox\\OnePress\\Products\\Topic\\Plugin - "
+"Social Locker for Wordpress\\wp-content\\plugins\\sociallocker-next\\libs"
+"\\factory\\types\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c\n"
+"X-Poedit-SearchPath-0: E:\\cloud\\Dropbox\\OnePress\\Products\\Topic\\Plugin "
+"- Social Locker for Wordpress\\wp-content\\plugins\\sociallocker-next\\libs"
+"\\factory\\types\n"
+
+#: E:\cloud\Dropbox\OnePress\Products\Topic\Plugin - Social Locker for
+#: Wordpress\wp-content\plugins\sociallocker-next\libs\factory\types/type.class.php:329
+#, php-format
+msgid "All %1$s"
+msgstr "Все %1$s"
+
+#: E:\cloud\Dropbox\OnePress\Products\Topic\Plugin - Social Locker for
+#: Wordpress\wp-content\plugins\sociallocker-next\libs\factory\types/type.class.php:330
+#, php-format
+msgid "Add %1$s"
+msgstr "Создать %1$s"
+
+#: E:\cloud\Dropbox\OnePress\Products\Topic\Plugin - Social Locker for
+#: Wordpress\wp-content\plugins\sociallocker-next\libs\factory\types/type.class.php:331
+msgid "Add new"
+msgstr "Создать новый"
+
+#: E:\cloud\Dropbox\OnePress\Products\Topic\Plugin - Social Locker for
+#: Wordpress\wp-content\plugins\sociallocker-next\libs\factory\types/type.class.php:332
+msgid "Edit"
+msgstr "Редактировать"
+
+#: E:\cloud\Dropbox\OnePress\Products\Topic\Plugin - Social Locker for
+#: Wordpress\wp-content\plugins\sociallocker-next\libs\factory\types/type.class.php:333
+#, php-format
+msgid "Edit %1$s"
+msgstr "Редактировать %1$s"
+
+#: E:\cloud\Dropbox\OnePress\Products\Topic\Plugin - Social Locker for
+#: Wordpress\wp-content\plugins\sociallocker-next\libs\factory\types/type.class.php:334
+#, php-format
+msgid "New %1$s"
+msgstr "Новый %1$s"
+
+#: E:\cloud\Dropbox\OnePress\Products\Topic\Plugin - Social Locker for
+#: Wordpress\wp-content\plugins\sociallocker-next\libs\factory\types/type.class.php:335
+msgid "View"
+msgstr "Просмотреть"
+
+#: E:\cloud\Dropbox\OnePress\Products\Topic\Plugin - Social Locker for
+#: Wordpress\wp-content\plugins\sociallocker-next\libs\factory\types/type.class.php:336
+#, php-format
+msgid "View %1$s"
+msgstr "Просмотреть %1$s"
+
+#: E:\cloud\Dropbox\OnePress\Products\Topic\Plugin - Social Locker for
+#: Wordpress\wp-content\plugins\sociallocker-next\libs\factory\types/type.class.php:337
+#, php-format
+msgid "Search %1$s"
+msgstr "Поиск %1$s"
+
+#: E:\cloud\Dropbox\OnePress\Products\Topic\Plugin - Social Locker for
+#: Wordpress\wp-content\plugins\sociallocker-next\libs\factory\types/type.class.php:338
+#, php-format
+msgid "No %1$s found"
+msgstr "%1$s не найден"
+
+#: E:\cloud\Dropbox\OnePress\Products\Topic\Plugin - Social Locker for
+#: Wordpress\wp-content\plugins\sociallocker-next\libs\factory\types/type.class.php:339
+#, php-format
+msgid "No %1$s found in trash"
+msgstr "В корзине %1$s не найден"
+
+#: E:\cloud\Dropbox\OnePress\Products\Topic\Plugin - Social Locker for
+#: Wordpress\wp-content\plugins\sociallocker-next\libs\factory\types/type.class.php:340
+#, php-format
+msgid "Parent %1$s"
+msgstr "Родитель %1$s"
+
+#: E:\cloud\Dropbox\OnePress\Products\Topic\Plugin - Social Locker for
+#: Wordpress\wp-content\plugins\sociallocker-next\libs\factory\types/type.class.php:390
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#~ msgid "Add"
+#~ msgstr "Добавить"
