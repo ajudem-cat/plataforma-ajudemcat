@@ -1,0 +1,382 @@
+# Translation of Themes - Twenty Nineteen in Catalan
+# This file is distributed under the same license as the Themes - Twenty Nineteen package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-06-15 12:37:17+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ca\n"
+"Project-Id-Version: Themes - Twenty Nineteen\n"
+
+#. Description of the theme
+msgid "Our 2019 default theme is designed to show off the power of the block editor. It features custom styles for all the default blocks, and is built so that what you see in the editor looks like what you'll see on your website. Twenty Nineteen is designed to be adaptable to a wide range of websites, whether you’re running a photo blog, launching a new business, or supporting a non-profit. Featuring ample whitespace and modern sans-serif headlines paired with classic serif body text, it's built to be beautiful on all screen sizes."
+msgstr "El tema per defecte de 2019 està dissenyat per a mostrar tota la potència de l'editor de blocs, i fet de manera que el que veieu a l'editor siga el mateix que el que veureu al lloc web. Twenty Nineteen està dissenyat per poder-se adaptar a un ampli ventall de llocs web, tant si gestione un blog de fotografia, esteu començant una nova empresa o recolzant una ONG. Amb molt d'espai en blanc i capçaleres modernes sense serif combinades amb text amb serif amb aparença més clàssica, està fet perquè siga bonic en pantalles de qualsevol mida."
+
+#. Theme Name of the theme
+msgid "Twenty Nineteen"
+msgstr "Twenty Nineteen"
+
+#. translators: %s: Parent post link.
+#: single.php:31
+msgid "<span class=\"meta-nav\">Published in</span><span class=\"post-title\">%s</span>"
+msgstr "<span class=\"meta-nav\">Publicat a</span><span class=\"post-title\">%s</span>"
+
+#: image.php:87
+msgctxt "Parent post link"
+msgid "<span class=\"meta-nav\">Published in</span><br><span class=\"post-title\">%title</span>"
+msgstr "<span class=\"meta-nav\">Publicat a</span><br><span class=\"post-title\">%title</span>"
+
+#: template-parts/content/content-excerpt.php:18
+#: template-parts/content/content.php:18
+msgctxt "post"
+msgid "Featured"
+msgstr "Destacada"
+
+#. translators: %s: WordPress version.
+#: inc/back-compat.php:40 inc/back-compat.php:55 inc/back-compat.php:76
+msgid "Twenty Nineteen requires at least WordPress version 4.7. You are running version %s. Please upgrade and try again."
+msgstr "El Twenty Nineteen necessita la versió 4.7 del WordPress almenys. Esteu executant el %s. Actualitzeu i proveu de nou."
+
+#: inc/template-functions.php:143
+msgid "Back"
+msgstr "Enrere"
+
+#: inc/template-functions.php:136
+msgid "More"
+msgstr "Més"
+
+#: inc/customizer.php:98
+msgid "Apply a filter to featured images using the primary color"
+msgstr "Apliqueu un filtre a les imatges destacades fent servir el color primari"
+
+#: inc/customizer.php:78
+msgid "Apply a custom color for buttons, links, featured images, etc."
+msgstr "Apliqueu un color personalitzat als botons, els enllaços, les imatges destacades, etc."
+
+#: inc/customizer.php:56
+msgctxt "primary color"
+msgid "Custom"
+msgstr "Personalitzat"
+
+#: inc/customizer.php:55
+msgctxt "primary color"
+msgid "Default"
+msgstr "Per defecte"
+
+#: functions.php:168
+msgid "White"
+msgstr "Blanc"
+
+#: functions.php:163
+msgid "Light Gray"
+msgstr "Gris clar"
+
+#: functions.php:158
+msgid "Dark Gray"
+msgstr "Gris fosc"
+
+#: functions.php:136
+msgid "XL"
+msgstr "XL"
+
+#: functions.php:135
+msgid "Huge"
+msgstr "Enorme"
+
+#: functions.php:130
+msgid "L"
+msgstr "L"
+
+#: functions.php:129
+msgid "Large"
+msgstr "Gran"
+
+#: functions.php:124
+msgid "M"
+msgstr "M"
+
+#: functions.php:123
+msgid "Normal"
+msgstr "Normal"
+
+#: functions.php:117
+msgid "Small"
+msgstr "Petita"
+
+#: functions.php:118
+msgid "S"
+msgstr "S"
+
+#: footer.php:37 functions.php:60
+msgid "Footer Menu"
+msgstr "Menú del peu de pàgina"
+
+#: image.php:70
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "Mida sencera"
+
+#: image.php:56
+msgid "Page"
+msgstr "Pàgina "
+
+#: functions.php:192
+msgid "Add widgets here to appear in your footer."
+msgstr "Afegiu ginys aquí per a veure'ls al peu de pàgina."
+
+#: template-parts/footer/footer-widgets.php:12 functions.php:190
+msgid "Footer"
+msgstr "Peu"
+
+#: inc/customizer.php:53
+msgid "Primary Color"
+msgstr "Color primari"
+
+#: template-parts/post/discussion-meta.php:18
+msgid "No comments"
+msgstr "Sense comentaris"
+
+#. translators: %d: Number of comments.
+#: template-parts/post/discussion-meta.php:16
+msgid "%d Comment"
+msgid_plural "%d Comments"
+msgstr[0] "%d comentari"
+msgstr[1] "%d comentaris"
+
+#: template-parts/post/author-bio.php:26
+msgid "View more posts"
+msgstr "Mostra més entrades"
+
+#. translators: %s: Post author.
+#: template-parts/post/author-bio.php:17
+msgid "Published by %s"
+msgstr "Publicat per %s"
+
+#: template-parts/header/site-branding.php:33
+msgid "Top Menu"
+msgstr "Menú superior"
+
+#. translators: %s: Post title. Only visible to screen readers.
+#: template-parts/content/content-single.php:27
+#: template-parts/content/content.php:36
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Continua llegint <span class=\"screen-reader-text\">«%s»</span>"
+
+#: template-parts/content/content-single.php:40
+#: template-parts/content/content.php:49
+#: template-parts/content/content-page.php:27 image.php:52
+msgid "Pages:"
+msgstr "Pàgines:"
+
+#: template-parts/content/content-none.php:46
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Sembla que no hem trobat el que buscàveu. Potser hi ajudaria una cerca."
+
+#: template-parts/content/content-none.php:39
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "No s'ha trobat res que coincideixi amb els termes cercats. Proveu de nou amb altres paraules clau diferents."
+
+#. translators: 1: Link to WP admin new post page.
+#: template-parts/content/content-none.php:26
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Preparats per publicar la primera entrada? <a href=\"%1$s\">Comenceu aquí</a>."
+
+#: template-parts/content/content-none.php:16
+msgid "Nothing Found"
+msgstr "No s'ha trobat res"
+
+#: single.php:42
+msgid "Previous post:"
+msgstr "Entrada anterior:"
+
+#: single.php:41
+msgid "Previous Post"
+msgstr "Entrada prèvia"
+
+#: single.php:39
+msgid "Next post:"
+msgstr "Següent entrada:"
+
+#: single.php:38
+msgid "Next Post"
+msgstr "Entrada següent"
+
+#: inc/template-tags.php:234
+msgid "Older posts"
+msgstr "Entrades més antigues"
+
+#: inc/template-tags.php:230
+msgid "Newer posts"
+msgstr "Entrades més noves"
+
+#: inc/template-tags.php:104
+msgid "Tags:"
+msgstr "Etiquetes:"
+
+#: inc/template-tags.php:92
+msgid "Posted in"
+msgstr "Publicat en"
+
+#. translators: Used between list items, there is a space after the comma.
+#: inc/template-tags.php:86 inc/template-tags.php:98
+msgid ", "
+msgstr ", "
+
+#. translators: %s: Post title. Only visible to screen readers.
+#: inc/template-tags.php:63
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Deixa un comentari<span class=\"screen-reader-text\"> a %s</span>"
+
+#: inc/template-tags.php:46
+msgid "Posted by"
+msgstr "Publicat per"
+
+#: inc/template-functions.php:82
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-functions.php:80
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-functions.php:92
+msgid "Archives:"
+msgstr "Arxiu:"
+
+#. translators: %s: Taxonomy singular name.
+#: inc/template-functions.php:90
+msgid "%s Archives:"
+msgstr "Arxius de %s:"
+
+#: inc/template-functions.php:86
+msgid "Post Type Archives: "
+msgstr "Arxiu de tipus d'entrades: "
+
+#: inc/template-functions.php:84
+msgid "Daily Archives: "
+msgstr "Arxius diaris: "
+
+#: inc/template-functions.php:82
+msgid "Monthly Archives: "
+msgstr "Arxius mensuals: "
+
+#: inc/template-functions.php:80
+msgid "Yearly Archives: "
+msgstr "Arxius anuals: "
+
+#: inc/template-functions.php:78
+msgid "Author Archives: "
+msgstr "Arxius d'autor: "
+
+#: inc/template-functions.php:76
+msgid "Tag Archives: "
+msgstr "Arxiu d'etiquetes: "
+
+#: inc/template-functions.php:74
+msgid "Category Archives: "
+msgstr "Arxiu de categoria:"
+
+#. translators: %s: Post title. Only visible to screen readers.
+#: template-parts/header/entry-header.php:32
+#: template-parts/content/content-page.php:41 inc/template-tags.php:120
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Edita <span class=\"screen-reader-text\">%s</span>"
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "Vés al contingut"
+
+#: template-parts/header/site-branding.php:46 functions.php:61
+msgid "Social Links Menu"
+msgstr "Menú d'enllaços socials"
+
+#: functions.php:59
+msgid "Primary"
+msgstr "Principal"
+
+#. translators: %s: WordPress.
+#: footer.php:28
+msgid "Proudly powered by %s."
+msgstr "Gràcies al %s."
+
+#: comments.php:116
+msgid "Comments are closed."
+msgstr "Els comentaris estan tancats."
+
+#: comments.php:96
+msgid "Next"
+msgstr "Següent"
+
+#: comments.php:95
+msgid "Previous"
+msgstr "Anterior"
+
+#: comments.php:92 comments.php:95 comments.php:96
+msgid "Comments"
+msgstr "Comentaris"
+
+#. translators: 1: Number of comments, 2: Post title.
+#: comments.php:44
+msgctxt "comments title"
+msgid "%1$s reply on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s replies on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s resposta a &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s respostes a &ldquo;%2$s&rdquo;"
+
+#. translators: %s: Post title.
+#: comments.php:40
+msgctxt "comments title"
+msgid "One reply on &ldquo;%s&rdquo;"
+msgstr "Una resposta a &ldquo;%s&rdquo;"
+
+#: comments.php:35 comments.php:105 comments.php:107
+msgid "Leave a comment"
+msgstr "Deixa un comentari"
+
+#: comments.php:33
+msgid "Join the Conversation"
+msgstr "Uneix-te a la conversa"
+
+#: classes/class-twentynineteen-walker-comment.php:94
+msgid "Your comment is awaiting moderation."
+msgstr "El comentari està en espera de moderació."
+
+#: classes/class-twentynineteen-walker-comment.php:87
+msgid "Edit"
+msgstr "Edita"
+
+#. translators: 1: Comment date, 2: Comment time.
+#: classes/class-twentynineteen-walker-comment.php:79
+msgid "%1$s at %2$s"
+msgstr "%1$s a les %2$s"
+
+#. translators: %s: Comment author link.
+#: classes/class-twentynineteen-walker-comment.php:59
+msgid "%s <span class=\"screen-reader-text says\">says:</span>"
+msgstr "%s <span class=\"screen-reader-text says\">diu:</span>"
+
+#: 404.php:24
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Sembla que no s'ha trobat res aquí. Voleu intentar una cerca?"
+
+#: 404.php:20
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Aquesta pàgina no es pot trobar."
+
+#. Theme URI of the theme
+msgid "https://wordpress.org/themes/twentynineteen/"
+msgstr "https://ca.wordpress.org/themes/twentynineteen/"
+
+#. Author of the theme
+msgid "the WordPress team"
+msgstr "L'equip del WordPress"
+
+#. Author URI of the theme
+#: footer.php:25
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
