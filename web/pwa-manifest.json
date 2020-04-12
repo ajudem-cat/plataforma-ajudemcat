@@ -1,0 +1,23 @@
+{
+    "name": "Ajudem.cat",
+    "short_name": "Ajudem.cat",
+    "description": "Plataforma d&#039;ajuda ciutadana",
+    "icons": [
+        {
+            "src": "https:\/\/ajudem.cat\/wp-content\/uploads\/ajudemcat_192.png",
+            "sizes": "192x192",
+            "type": "image\/png"
+        },
+        {
+            "src": "https:\/\/ajudem.cat\/wp-content\/uploads\/ajudemcat_512.png",
+            "sizes": "512x512",
+            "type": "image\/png"
+        }
+    ],
+    "background_color": "#ffffff",
+    "theme_color": "#ef7a4d",
+    "display": "standalone",
+    "orientation": "portrait",
+    "start_url": "https:\/\/ajudem.cat\/",
+    "scope": "https:\/\/ajudem.cat\/"
+}
