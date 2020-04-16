@@ -5,7 +5,6 @@ $username = "";
 $password = "";
 $dbname = "";
 
-
 $codi = $_GET['codi'];
 
 
@@ -13,7 +12,7 @@ $codi = $_GET['codi'];
 $conn = new mysqli($servername, $username, $password, $dbname);
 $conn->set_charset("utf8");
 
-$sql = "DELETE FROM serveis WHERE codi = '" . $codi . "'";
+$sql = "DELETE FROM serveis WHERE codieliminar = '" . $codi . "'";
 
 if ($conn->query($sql) === TRUE) {
     header("Location: https://ajudem.cat/eliminat-amb-exit/");

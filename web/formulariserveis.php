@@ -38,7 +38,14 @@ $randIndexllmaj = array_rand($arrayllmaj);
 $randIndexllmin = array_rand($arrayllmin);
 $randIndexnum = array_rand($arraynum);
 $randIndexsym = array_rand($arraysym);
+$randIndexllmaj1 = array_rand($arrayllmaj);
+$randIndexllmin1 = array_rand($arrayllmin);
+$randIndexnum1 = array_rand($arraynum);
+$randIndexsym1 = array_rand($arraysym);
+
 $codi = $any . $mes . $dia . $arrayllmaj[$randIndexllmaj] . $arraynum[$randIndexnum] . $arraysym[$randIndexsym] . $arrayllmin[$randIndexllmin];
+
+$codieliminar = $arrayllmaj[$randIndexllmaj] . $arraynum[$randIndexnum] . $arraysym[$randIndexsym] . $arrayllmin[$randIndexllmin] . $arrayllmaj[$randIndexllmaj1] . $arraynum[$randIndexnum1] . $arraysym[$randIndexsym1] . $arrayllmin[$randIndexllmin1] . $any . $mes . $dia;
 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
@@ -60,7 +67,7 @@ $telegram= $conn->real_escape_string($telegram);
 $codi= $conn->real_escape_string($codi);
 
 
-$sql = "INSERT INTO serveis (codi, nomusuari, foto, genere, correu, empresa, web, codipostal, nomservei, descripccioservei, categoria, tel, whats, telegram) VALUES ('".$codi."', '".$nomusuari."', '".$foto."', '".$genere."', '".$correu."', '".$empresa."', '".$web."', '".$codipostal."', '".$nomservei."', '".$descripccioservei."', '".$categoria."', '".$tel."', '".$whats."', '".$telegram."')";
+$sql = "INSERT INTO serveis (codi, codieliminar, nomusuari, foto, genere, correu, empresa, web, codipostal, nomservei, descripccioservei, categoria, tel, whats, telegram) VALUES ('".$codi."', '".$codieliminar."', '".$nomusuari."', '".$foto."', '".$genere."', '".$correu."', '".$empresa."', '".$web."', '".$codipostal."', '".$nomservei."', '".$descripccioservei."', '".$categoria."', '".$tel."', '".$whats."', '".$telegram."')";
 
 if ($conn->query($sql) === TRUE) {
 	$from = "ajudem.cat <serveis@ajudem.cat>";
@@ -69,7 +76,7 @@ if ($conn->query($sql) === TRUE) {
 	$premessage = file_get_contents("correuvalidar.php");
 
 	$message = str_replace("XXXXXX", "https://ajudem.cat/validarservei.php?codi=" . $codi, $premessage);
-	$message = str_replace("YYYYYY", "https://ajudem.cat/eliminarservei.php?codi=" . $codi, $message);
+	$message = str_replace("YYYYYY", "https://ajudem.cat/eliminarservei.php?codi=" . $codieliminar, $message);
 	$message = str_replace("ZZZZZZ", "https://ajudem.cat/verifica", $message);
 
 
