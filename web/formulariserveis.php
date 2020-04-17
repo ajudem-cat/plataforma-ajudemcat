@@ -19,7 +19,7 @@ $tel = $_GET['tel'];
 $whats = $_GET['whats'];
 $telegram = $_GET['telegram'];
 
-$nfoto = rand(1, 10);
+$nfoto = rand(1, 20);
 $foto = "/fotos/categories/".$categoria."/".$nfoto.".jpg";
 
 //Generar #CODI
