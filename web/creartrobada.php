@@ -28,8 +28,8 @@ $codi = $any . $mes . $dia . $arrayllmaj[$randIndexllmaj] . $arraynum[$randIndex
 
 $nomtrobadasenseespais = str_replace(" ", "", $nomtrobada);
 $enllac = "https://agora.ajudem.cat/" . $nomtrobadasenseespais . $codi;
-$notierror = "Ha hagut un error enviant els correus, revisa la configuració.";
-$notitotb = 'La reunió ha estat creada correctament. Pots accedir ara fent <a href='.$enllac.'>clic aquí</a>. Hem enviat un correu a tu i als convidats, si no el trobru reviseu la carpeta spam.';
+$notierror = "S'ha produ&iuml;t un error. Revisa la configuraci&oacute; o posa't en contacte amb nosaltres.";
+$notitotb = "La reuni&oacute; ha estat creada correctament. Pots accedir fent <a href='.$enllac.'>clic aqu&iacute;</a>. Tamb&eacute; t'hem enviat un missatge a tu i als convidats; si no el trobeu, reviseu la carpeta de correu brossa!";
 
 $from = "Àgora <agora@ajudem.cat>";
 $to = $correu.", ".$convidats;
